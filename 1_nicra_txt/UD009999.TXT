@@ -1,0 +1,157 @@
+CllgCO Colorado School of Mines 846000551 5/18/99 0099
+
+                NEGOTIATION AGREEMENT
+
+INSTITUTION:    COLORADO SCHOOL OF MINES
+                GOLDEN, COLORADO  80401
+
+The Facilities & Administrative cost and Fringe Benefits rates
+contained herein are for use on grants, contracts and/or other
+agreements issued or awarded to the Colorado School of Mines by
+all Federal Agencies of the United States of America, in
+accordance with the provisions and cost principles mandated by
+the Office of Management and Budget (OMB) Circular A-21.  These
+rates shall be used for forward pricing and billing purposes at
+the Colorado School of Mines for Fiscal Year 1999.  This rate
+agreement supersedes all previous rate agreements or
+determinations for Fiscal Year 1999.  
+
+SECTION I:  RATES - TYPE: PREDETERMINED (PRED) AND FIXED
+
+Facilities & Administrative Rates (Indirect Cost):
+
+       Effective Period    On Campus Off Campus                
+
+Type   From     To        Rate    Rate    Base   Applicable   
+                                                 To
+
+Pred   7/1/98   6/30/99   50.0%   26.6%   (a)    Organized
+                                                 Research
+
+Pred   7/1/98   6/30/99   25.0%   25.0%   (a)    Other
+                                                 Sponsored
+                                                 Activities
+
+Fringe Benefits Rates:
+
+Type   From    To         Rate     Base    Applicable      Location
+                                           To
+
+Fixed  7/1/98  6/30/99    21.1%    (b)     Administrative  All
+                                           and Academic  
+                                           Faculty
+
+Fixed  7/1/98  6/30/99    24.3%    (b)     Research        All
+                                           Faculty
+                              
+Fixed  7/1/98  6/30/99    12.6%    (b)     Temporary       All
+                                           Faculty             
+                                           (PERA only) 
+                                           & Full/Part
+                                           Time Temporary
+                                           Classified
+
+Fixed  7/1/98  6/30/99    19.4%    (c)     Full/Part       All
+                                           Time Permanent 
+                                           Classified
+
+                        DISTRIBUTION BASE:
+
+(a)  Modified Total Direct Cost (MTDC), as defined in OMB
+Circular A-21, consisting of all salaries and wages, fringe
+benefits, materials and supplies, services, travel and
+subgrants and subcontracts up to the first $25,000 of each
+subgrant or subcontract (regardless of the period covered by
+the subgrant or subcontract).  Equipment (defined as having a
+useful life of more than one year and an acquisition cost
+which equals or exceeds $2,000), capital expenditures, charges
+for patient care and tuition remission, rental costs,
+scholarships, and fellowships as well as the portion of each
+subgrant and subcontract in excess of $25,000 shall be excluded.
+
+(b)  Faculty salaries and wages.
+
+(c)  Classified (Administrative) salaries and wages.
+
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+A.  LIMITATIONS:  Use of the rates set forth under Section I is
+subject to any statutory or administrative limitations and is
+applicable to a given grant, contract or other agreement only
+to the extent that funds are available and consistent with any
+and all limitations of cost clauses or provisions, if any,
+contained therein.  Acceptance of the rates agreed to herein
+is predicated upon all the following conditions: (1) that no
+costs other than those incurred by the grantee/contractor were
+included in the indirect cost pool as finally accepted and that
+all such costs are legal obligations of the grantee/contractor
+and allowable under governing  cost principles; (2) that the
+same costs that have been treated as indirect costs are not
+claimed as direct costs; (3) that similar types of costs have
+been accorded consistent accounting treatment; and (4) that the
+information provided by the contractor/grantee, which was used
+as the basis for the acceptance of the rates agreed to herein and
+expressly relied upon by the Government in negotiating and
+accepting the said rates, is not subsequently found to be
+materially incomplete or inaccurate.
+
+B.  ACCOUNTING CHANGES: The rates contained in Section I of
+this agreement are based on the accounting system in effect at
+the time this agreement was established.  Changes to the
+method(s) of accounting for costs which affects the amount
+of reimbursement resulting from the use of these rates
+require the written approval of the authorized representative
+of the cognizant negotiating agency for the Government prior
+to implementation of any such changes.  Such changes include
+but are not limited to changes in the charging of a particular
+type of cost from indirect to direct.  Failure to obtain such
+approval may result in subsequent cost disallowances.
+
+C.   PREDETERMINED RATES: The predetermined rates contained in
+this agreement are not subject to adjustment in accordance with
+the provisions of OMB Circular A-21, subject to the limitations
+contained in Part A of this section.
+
+D.  FIXED RATES: The fixed rates in this agreement are based on
+estimates of the costs for FY 1999.  When actual costs for this
+period are determined, an adjustment will be made to the rates
+of a future year to recognize the difference between the FY 1999
+estimated costs used to establish the fixed rates and the
+negotiated actual FY 1999 costs.
+
+E.  USE BY OTHER FEDERAL AGENCIES:  The rates set forth in
+Section I hereof were established in accordance with and under
+the authority set forth in OMB Circular A-21.  Accordingly, such
+rates shall be applied to the extent provided in such circular
+to grants, contracts and other agreements to which OMB Circular
+A-21 is applicable, subject to any limitations in part A of this
+section.  Copies of this document may be provided by either party
+to other Federal agen- cies which have or intend to issue or award
+agreements using these rates, or to otherwise provide such
+agencies with documentary notice of this determination and its
+terms and conditions. 
+
+F.  APPLICATION OF INDIRECT COST RATES TO DoD CONTRACTS/
+SUBCONTRACTS:  Signature of this agreement by the authorized
+representative of the Colorado School of Mines and the Government,
+acknowledges and affirms the Institution's  request for waiver of
+the prohibition contained in DFARS 231.303(1) and the Government's
+exercise of its discretion under DFARS 231.303(2) to waive the
+prohibition in DFARS 231.303(1) for the facility and
+administration cost rates cited in Section I.
+
+Accepted:
+
+FOR THE INSTITUTION:                         FOR THE GOVERNMENT:
+/S/                                          /S/ 
+ROBERT MOORE                                 DEBORAH K. RAFI          
+Vice President for Business Affairs          Contracting Officer      
+                                  
+May 17, 1999                                 May 18, 1999                                         Date                                    Date
+
+For information concerning this document contact:
+DEBORAH K. RAFI                              PHONE: (703) 696-5641
+OFFICE OF NAVAL RESEARCH                     EMAIL: rafid@onr.navy.mil
+INDIRECT COSTS CODE 242
+BCT #1,  Rm 704
+800 N. QUINCY STREET, ARLINGTON, VA 22217

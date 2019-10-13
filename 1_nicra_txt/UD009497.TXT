@@ -1,0 +1,170 @@
+CllgPA The Pennsylvania State University  246000376  03/12/99
+                                                                   
+                   NEGOTIATION AGREEMENT
+                                                                    
+Institution:   THE PENNSYLVANIA STATE UNIVERSITY
+               UNIVERSITY PARK, PA 16802
+
+    ONR Indirect Cost Rate Agreements dated 27 June 1996 and 24
+December 1996 established fixed rates with carryforward provisions
+and predetermined rates for The Pennsylvania State University's
+Fiscal Year ending 30 June 1997.
+
+    The purpose of this negotiation agreement is to record
+agreement on the carryforward amounts resulting from
+determination of actual costs for FY 1997 (FY97).
+
+    The rates listed below are based on The Pennsylvania State
+University's FY 97 actual indirect cost rate proposals dated 23
+December 1997 and 14 October 1998, and DCAA Audit Report No. 6381-
+98P10150001 dated 15 July 1998 and No. 6381-98P23000001 dated
+8 May 1998.  These rates have been determined in accordance with
+the provisions of OMB Circular A-21.
+                                                                   
+SECTION I: RATES - TYPE: ACTUAL 
+
+TYPE     FROM     TO     RATE   BASE   APPLICABLE TO/LOCATION
+
+University Park
+
+Actual  7/1/96 6/30/97  38.82%  (a)   On Campus Organized
+                                      Research, All
+                                      Locations Except
+                                      ARL & HMC  
+   
+Actual  7/1/96 6/30/97  20.64%  (a)   Off Campus Organized
+                                      Research, All
+                                      Locations Except
+                                      ARL& HMC
+
+Actual  7/1/96 6/30/97   7.03%  (a)   Organized Research, ARL
+
+Actual  7/1/96 6/30/97  41.27%  (a)   On Campus Instruction, All
+                                      Locations Except ARL & HMC
+
+Actual  7/1/96 6/30/97  17.05%* (a)   Off Campus Instruction, All
+                                      Locations Except ARL & HMC
+
+Hershey Medical Center (HMC)
+
+Actual  7/1/96 6/30/97  47.52%   (a)  On Campus Research, HMC (1)
+
+Actual  7/1/96 6/30/97  24.84%*  (a)  Off Campus Research,HMC (1)
+
+Actual  7/1/96 6/30/97  47.52%*  (a)  On Campus Research, HMC (2)
+
+Actual  7/1/96 6/30/97  24.84%*  (a)  Off Campus Research,HMC (2)
+
+Applied Research Laboratory (ARL)Internal Rates
+
+Actual  7/1/96 6/30/97  18.32%   (b)  Authorized Absences ARL
+
+Actual  7/1/96 6/30/97  35.85%   (a)  Internal Overhead (Navy)ARL
+
+Fringe Benefits
+
+Actual  7/1/96 6/30/97  27.22%   (b)  Salaries - All
+
+Actual  7/1/96 6/30/97  11.67%   (c)  Graduate Assistants - All
+
+Actual  7/1/96 6/30/97   8.08%   (d)  Wages - All
+
+*  In FY97, Pennsylvania State University had no business which was
+subject to application of these rates; thus, there are no
+carryforward amounts for any of these rates.
+
+                         DISTRIBUTION BASE    
+                         
+(a)  Modified total direct cost (which includes fringe benefits),
+excludes graduates assistant tuition remission, equipment, plant
+construction, building amortization, and the portion of each
+subgrant and subcontract in excess of $25,000 and patient care cost.
+
+(b) Salaries, excluding graduate assistants, fixed term II and
+visiting faculty appointments not receiving full benefits.
+
+(c) Graduate assistants salaries.
+
+(d) Wages and those salaries not receiving full benefits,
+exclusive of graduate assistants.           
+
+                        CARRYFORWARDS
+
+The following carryforward (C/F) amounts ($000's) result from
+determination of FY 97 actual indirect cost rates:
+                                           
+                                Estimated C/F     Balance To Be
+                                Liquidated        Liquidated In
+Location          C/F Amount    In FY 99 Rate     Future Rate
+
+Univ. Park (On)   $4,022,951(O)  $3,543,000(O)    $  479,951(O)      
+                  
+Univ. Park (Off)  $   17,685(O)  $   17,000(O)   $      685(O)
+ 
+ARL               $  106,988(U)  $  108,000(U)   $    1,012(O)
+
+Instruction (On)  $3,564,400(O)  $4,055,000(O)    $  490,600(U)      
+                               
+Hershey (On)      $  569,943(U)  $  570,000(U)    $       57(O)      
+
+Fringe (Sal.)     $6,630,235(O)  $6,630,000(O)    $      235(O)      
+                             
+Fringe (Wages)    $  466,965(O)  $  467,000(O)    $      35(U)
+
+Fringe (GRA's)    $   71,177(U)  $   71,000(U)    $      177(U)      
+                                  
+(U) Denotes Underrecovery
+(O) Denotes Overrecovery
+
+Any carryforward from FY97 Applied Research Laboratory (ARL)
+Internal Rates, which consist of Authorized Absences and the
+Internal Overhead Rate, will be liquidated through ARL's FY97 and
+FY98 fixed rates, as described in the FY97 and FY98 Fixed Rate
+Negotiation Agreements.
+
+                            SPECIAL REMARKS
+
+APPLICATION OF INDIRECT COST RATES TO DOD CONTRACTS/SUBCONTRACTS: 
+In accordance with DFARS 231.303, no limitation (unless waived by
+the institution) may be placed on the reimbursement of otherwise
+allowable indirect costs incurred by an institution of higher
+education under a DOD contract awarded on or after November 30,
+1993, unless the same limitation is applied uniformly to all other
+organizations performing similar work.  It has been determined by
+the Department of Defense that such limitation is not being
+uniformly applied.  Accordingly, the rates cited (2) of Section I,
+as explained under the title "APPLICABLE TO" do not reflect the
+application of the 26% limitation on administrative indirect costs
+imposed by OMB Circular A-21 whereas (1) does so.
+
+Please indicate your acceptance of the FY 97 actual rates and
+carryforward adjustments by signature in the space provided below.
+The terms of this negotiation agreement are subject to all
+regulations and statutes applicable to any contract, grant, or
+other agreement including the provisions of OMB Circular A-21.
+The terms of this negotiation agreement will not change any
+monetary ceilings of any individual Federal contract, grant, or
+other agreement with The Pennsylvania State University.
+
+
+FOR PENNSYLVANIA STATE UNIVERSITY      FOR THE U.S GOVERNMENT
+
+/s/                                    /s/                       
+KENNETH S. BABE                        MICHAEL KUC
+Corporate Controller                   Contracting Officer
+
+3/12/99                                3/12/99
+Date                                   Date
+
+
+                     
+
+
+     For information concerning this document contact:
+                                  
+                       Michael Kuc
+                       Office of Naval Research
+                       Indirect Costs/ONR 242
+                       800 N. Quincy Street
+                       Arlington, VA  22217
+                       (703) 696-2571

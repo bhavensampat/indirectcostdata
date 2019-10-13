@@ -1,0 +1,167 @@
+NPrfDC  National Academy of Sciences   530196932 2/5/99 0102 
+                    
+             NEGOTIATION AGREEMENT
+
+Institution: National Academy Of Sciences
+             2101 Constitution Avenue
+             Washington, D.C. 20418
+
+The Indirect Cost and Fringe Benefits rates contained herein
+are for use on grants and contracts with all Federal Agencies
+of the United States of America, in accordance with the
+provisions and cost principles mandated by Office of Management
+and Budget (OMB) Circular A-122.  These rates shall be used for
+forward pricing and billing purposes for the National
+Academy Of Sciences for period indicated in Section I.  This
+rate agreement supersedes all previous rate agreements for
+Fiscal Year 1999.  
+
+SECTION I: RATES - TYPE: PROVISIONAL (PROV)
+
+                 Indirect Cost & Fringe Benefits Rates
+                                                         APPLICABLE 
+TYPE  ACCOUNT   FROM    TO              RATE     BASE    TO              LOCATION
+
+Prov  Overhead  1/1/99  Until Amended   61.78%   (a)     All programs    Onsite
+                                                         except offsite  programs
+   
+Prov  Overhead  1/1/99  Until Amended   43.25%   (b)     Programs        Offsite
+                                                         performed 
+                                                         offsite
+
+Prov  Sub       1/1/99  Until Amended    2.18%   (c)     All programs    All
+      agreement
+
+Prov  G&A       1/1/99  Until Amended   20.53%   (d)     Value           All
+                                                         added base
+
+Prov  Leave     1/1/99  Until Amended   15.83%   (e)     Same as         All
+                                                         base
+
+Prov  Fringe    1/1/99  Until Amended   27.11%   (f)     Same as         All
+      Benefits                                           base
+
+Study Center:
+
+Prov  Usage     1/1/99  Until Amended   $24.00   (g)     All Programs    Woods Hole
+
+Prov  Food      1/1/99  Until Amended   $22.00   (g)     All Programs    Woods Hole
+
+                       Cost of Money Rates (COM)
+                                                                      
+Prov  Overhead  1/1/99  Until Amended   1.3560%  (a)     All programs    Onsite
+      COM                                                except offsite
+                                                         programs                 
+
+Prov  Overhead  1/1/99  Until Amended   0.1648%  (b)     Programs        Offsite
+      COM                                                performed
+                                                         offsite
+
+Prov  Sub       1/1/99  Until Amended   0.0099%  (c)     All programs    All
+      agreement
+      COM
+
+Prov  G&A COM   1/1/99  Until Amended   0.1314%  (d)     Value           All
+                                                         added base     
+
+                           DISTRIBUTION BASE
+
+     (a)  Direct labor dollars composed of total direct salaries and
+          wages, accrued leave, fringe benefits, consulting fees
+          onsite, temporary personnel onsite, borrowed personnel
+          onsite, and other personal services onsite.
+
+     (b)  Direct labor dollars composed of total direct salaries and
+          wages, accrued leave, fringe benefits, consulting fees
+          onsite, temporary personnel onsite, borrowed personnel
+          onsite, and other personal services onsite performed at
+          locations other than 200 Wisconsin Avenue, 2101
+          Constitution Avenue, 1055 Thomas Jefferson Street,
+          2133 Wisconsin Avenue, and 1000 Thomas Jefferson Street.
+
+     (c)  Subagreements, associateship/fellowship expenses, dues
+          to international organizations, and direct charged
+          equipment. 
+
+     (d)  Direct labor dollars, other direct costs (except for
+          subagreements, associateship/fellowship expenses, dues
+          to international organizations, and direct charged
+          equipment), and applied overhead.
+
+     (e)  Gross salaries and wages less: spending account, overtime
+          premium, annual leave, salary continuation, holiday leave,
+          other leave, hourly employees, full time temporaries, part-time
+          regular (<50%), part-time temporary, hourly and severance pay.
+
+     (f)  Leave pool base (as described above), plus part-time regular
+          (<50%), overtime premium and leave assessed.
+
+     (g)  Per day, per person.  Daily food allowance covers breakfast,
+          lunch, and snacks.
+
+                                                                                                                        
+SECTION II - GENERAL                                                    
+                                                                                                                                                                 
+A.   LIMITATIONS:  Use of the rates set forth under Section I is subject
+to any statutory or administrative limitations and is applicable to a
+given grant or contract only to the extent that funds are available.
+Acceptance of the rates agreed to herein is predicated upon  the
+following conditions: (1) that no costs other than those incurred by
+the grantee/contractor were included in this indirect cost pool as
+finally accepted and that such costs are legal obligations of the
+grantee/contractor and allowable under governing cost principles;
+(2) that the same costs that have been treated as indirect costs are
+not claimed as direct costs; (3) that similar types of costs
+have been accorded consistent accounting treatment; and (4) that the
+information provided by the grantee/contractor which was used as a
+basis for acceptance of the rates agreed to herein, and expressly
+relied upon by the Government in accepting the said rates is not
+subsequently found to be materially incomplete or inaccurate.          
+
+B.   ACCOUNTING CHANGES:  The rates contained in Section I of this
+agreement are based on the accounting system in effect at the time
+the agreement was issued.  Changes to the method(s) of accounting
+for costs which affect the amount of reimbursement resulting from
+the use of these rates require the prior approval of the authorized
+representative of the cognizant negotiation agency.  Such changes
+include but are not limited to changes in the charging of a
+particular type of cost from indirect to direct.  Failure to obtain
+such approval may result in subsequent cost disallowances.
+
+C.   USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section I
+were established in accordance with and under the authority set forth
+in OMB Circular A-122. Accordingly, such rates shall be applied to the
+extent provided in such Circular to grants and contracts to which OMB
+Circular A-122 applies, subject to any limitations in part A of this
+section.  Copies of this document may be provided by either party to
+other federal agencies which have or intend to issue or award
+sponsored agreements using these rates or to otherwise provide such
+agencies with documentary notice of this agreement and its terms and 
+conditions.
+
+D.   PROVISIONAL RATES:   The provisional rates contained in this
+agreement are subject to unilateral amendment by the Government or
+bilateral amendment by the contracting parties at any time.
+
+ACCEPTED FOR:
+
+NATIONAL ACADEMY OF SCIENCES         FOR THE U.S. GOVERNMENT
+
+
+
+/s/                                  /s/                                                       
+ARCHIE L. TURNER                     DEBORAH K. RAFI
+Chief Financial Officer              Contracting Officer                            
+
+
+4 February 1999                      5 February 1999                     
+Date                                 Date
+
+            For information concerning this document contact:
+                            Deborah K. Rafi
+                        Office of Naval Research
+                         Indirect Costs/ONR 242
+                          800 N. Quincy Street
+                          Arlington, VA  22217
+                             (703) 696-5641
+                        E-mail: rafid@onr.navy.mil

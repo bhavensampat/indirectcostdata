@@ -1,0 +1,223 @@
+CllgIL University of Illinois At Urbana-Champaign  37600511 11/15/00 0186
+
+               NEGOTIATION AGREEMENT
+
+INSTITUTION:   UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN
+               CHAMPAIGN, ILLINOIS 61820-6242
+
+The Facilities and Administrative (F&A) and Tuition Remission Rates contained herein are
+for use on grants, contracts and/or other agreements issued or awarded to the University
+of Illinois at Urbana-Champaign(UIUC) by all Federal Agencies of the United States of
+America, in accordance with the cost principles mandated by the Office of Management and
+Budget (OMB) Circular A-21.  These rates shall be used for forward pricing and billing
+purposes at UIUC for Fiscal Years (FY) 2001, 2002 and 2003. This rate agreement
+supersedes any previous rate agreements for FYs 2001- 2003. 
+
+SECTION I:  RATES - TYPE: PREDETERMINED (PRED)
+
+         Effective Period    On-Campus   Off-Campus                
+Type     From     To         Rates       Rates        Base   Applicable Function
+
+F&A (Indirect Cost) Rates:
+
+Pred    7/1/00    6/30/03    46.7%       24.0%        (a)    Sponsored Instruction
+
+Pred    7/1/00    6/30/03    53.0%       24.0%        (a)    Organized Research
+
+Pred    7/1/00    6/30/03    33.7%       10.7%        (a)    Materials Research Lab(MRL)
+
+Pred    7/1/00    6/30/03    24.9%       18.7%        (a)    Other Sponsored Activities 
+
+Pred    7/1/00    6/30/03     6.1%        6.1%        (a)    Campus Service Facilities 
+
+
+Tuition Remission Rates:
+                                         Non
+                             In-State    Resident
+Pred   7/1/00     6/30/03    34.5%       34.5%       (b)     Sponsored Instruction 
+
+Pred   7/1/00     6/30/03    34.5%       34.5%       (b)     Research, including MRL 
+Pred   7/1/00     6/30/03    34.5%       34.5%       (b)     Other Sponsored Activities 
+
+                             DISTRIBUTION BASE:
+
+     (a)  Modified Total Direct Cost (MTDC), as defined in OMB Circular A-21, consisting
+of all salaries and wages, fringe benefits, materials and supplies, services, travel,
+and subgrants and subcontracts up to the first $25,000 each (regardless of the period
+covered by the subgrant or subcontract); and excluding equipment (defined as having a
+useful life of more than one year and an acquisition cost of $5,000 or more per unit),
+capital expenditures, charges for patient care and tuition remission, rental costs,
+scholarships and fellowships as well as the portion of each subgrant and subcontract
+in excess of $25,000.  
+
+     (b)  Salaries and  wages of graduate assistants with tuition waivers (for purpose
+of assessing tuition waivers). 
+                                                                                                                                                            
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+A.  LIMITATIONS:  Use of the rates set forth under Section I is subject to any
+statutory or administrative limitations, and is applicable to a given grant, contract
+or other agreement only to the extent that funds are available and consistent with any
+and all limitations of cost clauses or provisions, if any, contained therein.
+Acceptance of the rates agreed to herein is predicated upon all the following
+conditions: (1) that no costs other than those incurred by the grantee/contractor
+or on behalf of the grantee/contractor by the State of Illinois were included in the
+indirect cost pool as finally accepted and that all such costs are legal obligations of
+the grantee/contractor and allowable under governing  cost principles; (2) that the
+same costs that have been treated as indirect costs are not claimed as direct costs;
+(3) that similar types of costs have been accorded consistent accounting treatment;
+and (4) that the information provided by the contractor/grantee, which was used as
+the basis for the acceptance of the rates agreed to herein and expressly relied
+upon by the Government in negotiating and accepting the said rates is not
+subsequently found to be materially incomplete or inaccurate.
+
+B.   ACCOUNTING CHANGES:  The rates contained in Section I of this agreement are
+based on the accounting system in effect at the time this agreement was negotiated.
+Changes to the method(s) of accounting for costs which affects the amount of
+reimbursement resulting from the use of these rates require the written approval of
+the authorized representative of the cognizant negotiating agency for the Government
+prior to implementation of any such changes.  Such changes include but are not
+limited to changes in the charging of a particular type of cost from indirect to
+direct.  Failure to obtain such approval may result in subsequent cost disallowances.
+
+C.   PREDETERMINED RATES: This type of rate is considered final and not subject to
+adjustment in accordance with the provisions of OMB Circular A-21 and the Federal
+Acquisition Regulation, subject to the limitations contained in Part A of this
+section.
+
+
+D.   SPECIAL REMARKS:
+
+     1.   Major Cost Elements Treated as Indirect Costs:  For the purpose of the
+rates set forth herein, the following major cost elements are and have been treated
+as indirect:
+
+          a.   Use charges for equipment, building and improvements, and
+               interest on buildings;
+
+          b.   Operation and maintenance of physical plant;
+
+          c.   Departmental and college administration;
+
+          d.   Sponsored project administration;
+
+          e.   General Administration and general expense;
+
+          f.    Library expenses;
+
+          g.   Applicable student services;
+
+          h.   Environmental health and safety;
+
+          i.   Departmental-faculty support administration.
+     
+2.   Major Cost Elements treated as Direct Costs:  For the purpose of the rates set
+forth herein, the following major cost elements, if applicable, are and have been
+treated as direct:
+
+          a.   Direct salaries and wages;
+
+          b.   Consultant services;
+
+          c.   Special equipment;
+
+          d.   Travel;
+
+          e.   Employee benefits;
+
+          f.   Materials and Supplies (which includes equipment having a useful life of
+               one year or less and/or an acquisition cost of less than $5,000);
+
+          g.   Services;
+          
+          h.   Publication; and/or
+
+          i.   Communications.
+
+     3.   MTDC:  Modified total direct costs are the total direct costs excluding:
+
+          a.   Subgrant and subcontract costs in excess of the first $25,000 per award; 
+          
+          b.   The costs of items of purchased equipment with an estimated life of more
+than one year and an acquisition cost of $5,000.00 or more per unit, including lease-
+purchase agreements.  This definition includes the cost of component parts, materials
+and/or supplies used to fabricate an item or piece of equipment when (1) the aggregate
+cost of the component parts, materials and/or supplies is $5,000.00 or more in value
+and (2) the cost of fabrication is documented and accounted for by the department.  This
+is in accordance with the waiver granted by OMB, dated June 29, 1995, which authorizes
+increasing the equipment cost threshold for capitalization from $500 to $5,000;
+
+          c.   Capital expenditures;
+
+          d.   Charges for patient care and tuition remission;
+
+          e.   Rental costs; and/or
+
+          f.   Scholarships and fellowships.
+
+     4.   The rates contained in Section I of this agreement are in compliance with
+DFARS 231.303 (1), since the institution has elected to use the alternate method for
+administrative costs as set forth in Section G.9 of OMB Circular A-21.   
+
+E.   APPLICATION OF RATES:
+
+     1.   Application of the appropriate On-Campus or Off-Campus indirect rate(s) is to
+be determined at the beginning of each sponsored agreement and is to be equitably
+adjusted if the circumstances which determined the application change materially during
+the period of performance. For this agreement, the term "sponsored agreement" includes
+grants, contracts or other agreements permitted by regulation or law.
+
+     2.   The On-Campus rate is to be assessed except when a portion of the sponsored
+agreement is performed at an off-campus site. In such cases, certain costs normally
+considered as indirect, such as rent or utility costs may be charged as direct costs
+to the particular sponsored agreement.  The criteria for utilization of the off-campus
+rate consists of all of the following:
+
+          a.   Performance at the off-campus site must be on a continuous basis;
+intermittent performance is not sufficient;
+
+          b.   The University personnel working or engaged on the project must be
+physically located at an off-campus site; and
+
+          c.   The off-campus performance must be of sufficient duration; normally a
+full semester, summer term or the period of performance of the sponsored agreement. 
+
+     3.   Off-campus costs may include costs incurred at the off-campus site for
+salaries, related benefits, supplies, utility costs, rent, local travel and other
+similar costs which are treated as direct.  Travel to and from an off-campus site
+is considered an off-campus cost. 
+
+     4.   The tuition remission rates are applicable to in-state and non-resident
+graduate assistants.
+
+F.  USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section I hereof were
+negotiated in accordance with and under the authority set forth in OMB Circular A-21. 
+Accordingly, such rates shall be applied to the extent provided in such circular
+togrants, contracts and other agreements to which OMB Circular A-21 is applicable,
+subject to any limitations in part A of this section. Copies of this document may be
+provided by either party to other Federal agencies which have or intend to issue or
+award grants and contracts using these rates or to otherwise provide such agencies
+with documentary notice of this agreement and its terms and conditions.
+
+
+FOR THE UNIVERSITY:                                    FOR THE GOVERNMENT:
+
+
+/S/                                                    /S/                                            
+Craig S. Bazzani                                       Michael Kuc
+Comptroller & Authorized Representative                Contracting Officer
+of the Board of Trustees
+of the University of Illinois
+
+11/15/00                                               11/15/00                     
+Date                                                   Date
+
+
+
+
+For information concerning this agreement contact:
+     Linda B. Shipp (shippl@onr.navy.mil)
+Office of Naval Research, Indirect Cost Branch/ONR 242 
+800 N. Quincy Street, BCT # 1, Room 704, Arlington, VA  22217
+(703) 696-8559, FAX:  (703) 696-4430
+

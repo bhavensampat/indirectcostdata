@@ -1,0 +1,161 @@
+CllgMA Massachusetts Institute of Technology 42103594 6/9/99 0149
+
+                  PROVISIONAL RATE AGREEMENT 
+ 
+Institution:    Massachusetts Institute of Technology  
+                Cambridge, Massachusetts 02139   
+
+The Facilities & Administrative (F&A) cost rates contained herein are for use on grants,
+contracts and/or other agreements issued or awarded to the Massachusetts Institute of
+Technology (MIT) by all Federal Agencies of the United States of America, in accordance
+with the provisions and cost principles mandated by Office of Management and Budget
+(OMB) Circular A-21.  These rates shall be used for forward pricing and billing
+purposes beginning with MIT's Fiscal Year 2002. This rate agreement supersedes all
+previous rate agreements/determinations for Fiscal Year 2002.  
+
+SECTION I: RATES - TYPE:  PROVISIONAL (PROV) 
+
+TYPE   FROM      TO               RATE     BASE   APPLICABLE TO         LOCATION
+                                
+PROV   7/1/01    Until Amended    65.50%   (a)    Organized Research    On Campus
+
+PROV   7/1/01    Until Amended     9.00%   (a)    Organized Research    Off Campus
+
+                      DISTRIBUTION BASE
+          
+     (a)  Modified Total Direct Cost (MTDC), as defined in OMB Circular A-21,
+consisting of all salaries and wages, fringe benefits, materials and supplies, services,
+travel, and subgrants and subcontracts up to the first $25,000 each (regardless of the
+period covered by the subgrant or subcontract); and excluding equipment, capital
+expenditures, charges for tuition remission, rental costs, scholarships and fellowships
+as well as the portion of each subgrant and subcontract in excess of $25,000. 
+          
+SECTION II - GENERAL                                                    
+
+A.   LIMITATIONS:  Use of the rates set forth under Section I is subject to any
+statutory or administrative limitations and is applicable to a given grant or contract
+only to the extent that funds are available.  Acceptance of the rates agreed to herein
+is predicated upon all of the following conditions: (1) that no costs other than those
+incurred by the grantee/contractor were included in this indirect cost pool as finally
+accepted and that such costs are legal obligations of the grantee/contractor and
+allowable under governing cost principles, (2) that the same costs that have been
+treated as indirect costs are not claimed as direct costs, (3) that similar types of
+costs have been accorded consistent accounting treatment, and (4) that the information
+provided by the grantee/contractor which was used as a basis for acceptance of the
+rates agreed to herein, and expressly relied upon by the Government in establishing
+and accepting the said rates is not subsequently found to be materially incomplete or
+inaccurate.          
+                         
+B.   ACCOUNTING CHANGES:  The provisional rates contained in Section I of this
+agreement are based on the accounting system in effect at the time the agreement was
+established.  Changes to the method(s) of accounting for costs which affect the
+amount of reimbursement resulting from the use of these rates require the prior
+approval of the authorized representative of the cognizant negotiation agency.
+Such changes include but are not limited to changes in the charging
+of a particular type of cost from indirect to direct.  Failure to obtain such
+approval may result in subsequent cost disallowances.
+                              
+C.   USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section I were
+established in accordance with and under the authority set forth in OMB
+Circular A-21.  Accordingly, such rates shall be applied to the extent
+provided in such Circular to grants and contracts to which OMB Circular A-21
+applies, subject to any limitations in part A of this section.  Copies of
+this document may be provided by either party to other federal agencies
+which have or intend to issue or award sponsored agreements using these
+rates or to otherwise provide such agencies with documentary notice of
+this agreement and its terms and conditions.
+
+D.    PROVISIONAL RATES:  The provisional rates contained in this agreement
+are subject to unilateral amendment by the Government or bilateral
+amendment by the contracting parties at any time.
+
+E.   COST CATEGORIES:                                                                                                             
+      
+     1.  The following cost categories are normally treated as direct costs by this
+         institution:
+
+          a.  Salaries and wages including overtime and sick leave pay
+          b.  Employee fringe benefits
+          c.  Materials, supplies, and fabricated parts directly related to the research
+              agreement
+          d.  Equipment or other facilities when approved by the sponsoring agency and/or
+              provided for by the terms of the research agreement
+          e.  Consultants
+          f.  Communication, publication and mailing
+          g.  Travel expenses
+          h.  Shipping charges
+          i.  Tuition remission
+
+     2.  The following cost categories are normally treated as indirect costs by this
+         institution:
+
+          a.  Departmental administration
+          b.  Laboratory directors
+          c.  Library
+          d.  Medical
+          e.  Contract administration
+          f.  Student services
+          g.  Plant operations - Normal plant and special plant
+          h.  Building use charge
+          i.  Equipment depreciation
+          j.  General administration
+          k.  Campus general administration
+          l.  Nuclear reactor
+          m.  Employee benefits residual
+          n.  Interest
+
+F.   SPECIAL REMARKS: 
+
+     1.  Off Campus rates are used when the preponderance of effort is performed at
+Lincoln Laboratory, Haystack Observatory or other off-site locations.
+
+     2.  The provisional rates contained in this agreement are based, in part, on
+the institution's alternate allocation base for library costs.  The Government has
+not accepted the methodology or results of this  alternate allocation base, but
+has agreed to partially utilize the results of the alternate allocation base as a
+basis for establishing the institute's FY 2002 provisional F&A cost rates.  Use
+of this methodology is on a non-precedent setting basis, and does not imply
+Government acceptance of the results of the library cost alternate allocation
+base in this agreement or any other F&A cost rate negotiation.
+
+     3. The establishment of these rates by the Government does not represent an
+agreement with accounting systems and methodologies.
+
+     4.  Signature of this agreement by the authorized representatives of MIT and
+the Government acknowledges and affirms the Institute's request for waiver of the
+prohibition contained in DFARS 231.303 (1) and the Government's exercise of its
+discretion contained in DFARS 231.303 (2) to waive the prohibition in
+DFARS 231.303 (1).  The waiver request by MIT is made to simplify the Institute's
+overall management of DOD cost reimbursement under DOD contracts.
+
+
+
+FOR MASSACHUSETTS INSTITUTE               FOR THE U.S. GOVERNMENT:
+OF TECHNOLOGY:
+
+
+/s/                                        /s/
+Julie T. Norris                            Deborah K. Rafi
+
+
+Director, Office of Sponsored Programs     Contracting Officer
+Title                                      Title
+
+
+8 June 1999                                9 June 1999
+Date                                       Date
+
+
+
+
+
+        For information concerning this document contact:
+                         Deborah K. Rafi
+                     Office of Naval Research
+                          ONR 242/Rm 704
+                       800 N. Quincy Street
+                       Arlington, VA  22217
+                          (703) 696-5641
+                    E-mail: rafid@onr.navy.mil
+
+          

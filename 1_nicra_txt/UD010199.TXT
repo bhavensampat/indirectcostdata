@@ -1,0 +1,316 @@
+NPrfDC  National Academy of Sciences 530196932 7/8/99 0101
+                                                                                                                                            
+                    NEGOTIATION AGREEMENT
+
+Institution: National Academy Of Sciences
+            2101 Constitution Avenue
+            Washington, D.C. 20418
+
+The Indirect Cost rates contained herein are for use on grants
+and contracts with all Federal Agencies of the United States
+of America, in accordance with the provisions and cost
+principles mandated by Office of Management and Budget (OMB)
+Circular A-122.  These rates shall be used for forward pricing
+and billing purposes for the National Academy Of Sciences
+transition fiscal year 1999 (FY99T).  This rate agreement
+supersedes all previous rate agreements for Fiscal Year 1999.  
+                                                                                                                          
+SECTION I: RATES - TYPE:   FIXED WITH CARRYFORWARD PROVISIONS
+                           (FIXED), AND PREDETERMINED (PRED)
+                                                    APPLICABLE 
+TYPE   ACCOUNT   FROM    TO         RATE    BASE    TO        LOCATION
+
+Fixed  Overhead  7/1/98  12/31/98   61.78%  (a)     All       Onsite
+                                                    programs
+                                                    except 
+                                                    offsite
+                                                    programs
+
+Fixed  Overhead  7/1/98  12/31/98   43.25%  (b)     Programs  Offsite
+                                                    performed           
+                                                    offsite
+
+Fixed  Sub-      7/1/98  12/31/98    2.18%  (c)     All        All
+       agreement                                    programs
+
+Fixed  G&A       7/1/98  12/31/98   22.16%  (d)     Value      All
+                                                    added base
+
+Fixed  Leave     7/1/98  12/31/98   16.50%  (e)     Same as    All
+                                                    base           
+
+Fixed  Fringe    7/1/98  12/31/98   27.11%  (f)     Same as    All
+                                                    base
+
+Pred   Study Center:
+
+       Usage     7/1/98   12/31/98  $24.00  (g)     All       Woods
+                                                    Programs  Hole
+
+       Food      7/1/98   12/31/98  $20.00  (g)     All       Woods
+                                                    Programs  Hole
+
+Note:  The rates set forth above  exclude executive salaries and
+benefits in excess of $340,650 per year.
+
+                  Cost Of Money Rates
+
+Fixed  Overhead  7/1/98   12/31/98  1.3560%  (a)    All        Onsite
+                                                    programs
+                                                    except
+                                                    offsite
+                                                    programs
+
+Fixed  Overhead  7/1/98    12/31/98  .2078%  (b)    Programs   Offsite
+                                                    perfprmed           Offsite
+                                                    offsite
+
+Fixed  Sub      7/1/98     12/31/98  .0099%  (c)    All        All
+       Agreement                                    programs
+
+Fixed  G&A      7/1/98     12/31/98  .1525%  (d)    Value      All
+                                                    added base 
+
+                  DISTRIBUTION BASE
+
+(a)  Direct labor dollars composed of total direct salaries and
+     wages, accrued leave, fringe benefits, consulting fees
+     onsite, temporary personnel onsite, borrowed personnel
+     onsite, and other personal services onsite.
+
+(b)  Direct labor dollars composed of total direct salaries and
+     wages, accrued leave, fringe benefits, consulting fees
+     onsite, temporary personnel onsite, borrowed personnel
+     onsite, and other personal services onsite performed at
+     locations other than 2001 Wisconsin Avenue, 2101
+     Constitution Avenue, 1055 Thomas Jefferson Street, 2133
+     Wisconsin Avenue, and 1000 Thomas Jefferson Street.
+
+(c)  Subagreements, associateship/fellowship expenses, dues
+     to international organizations, and direct charged
+     equipment. 
+
+(d)  Direct labor dollars, other direct costs (except for
+     subagreements, associateship/fellowship expenses,
+     dues to international organizations, and direct
+     charged equipment), and applied overhead.
+
+(e)  Gross salaries and wages less: spending account,
+     overtime premium, annual leave, salary continuation,
+     holiday leave, other leave, hourly employees, full
+     time temporaries, part-time regular (<50%), part-time
+     temporary, hourly and severance pay.
+
+(f)  Leave pool base (as described above), plus part-time
+     regular (<50%), overtime premium and leave assessed.
+
+(g)  Per day, per person.  Daily food allowance covers
+     breakfast, lunch, and snacks.
+
+No estimated unallowable costs (as defined at FAR 42.709)
+were excluded from the estimated indirect pool costs that
+were utilized in developing the indirect cost rates
+contained in this negotiated indirect cost rate agreement.
+                                                                                                                      
+SECTION II - GENERAL                                                    
+
+A.   LIMITATIONS:  Use of the rates set forth under Section
+I is subject to any statutory or administrative limitations
+and is applicable to a given grant or contract only to the
+extent that funds are available.  Acceptance of the rates
+agreed to herein is predicated upon  the following
+conditions: (1) that no costs other than those incurred by
+the grantee/contractor were included in this indirect cost
+pool as finally accepted and that such costs are legal
+obligations of the grantee/contractor and allowable under
+governing cost principles; (2) that the same costs that
+have been treated as indirect costs are not claimed as
+direct costs; (3) that similar types of costs have been
+accorded consistent accounting treatment; and (4) that
+the information provided by the grantee/contractor which
+was used as a basis for acceptance of the rates agreed to
+herein, and expressly relied upon by the Government in
+negotiating and accepting the said rates is not
+subsequently found to be materially incomplete
+or inaccurate.          
+
+B.   ACCOUNTING CHANGES:  The rates contained in Section I
+of this agreement are based on the accounting system in
+effect at the time the agreement was negotiated.  Changes
+to the method(s) of accounting for costs which affect the
+amount of reimbursement resulting from the use of these
+rates require the prior approval of the authorized
+representative of the cognizant negotiation agency.  Such
+changes include but are not limited to changes in the
+charging of a particular type of cost from indirect to
+direct.  Failure to obtain such approval may result in
+subsequent cost disallowances.
+
+C.   USE BY OTHER FEDERAL AGENCIES:  The rates set forth
+in Section I were negotiated in accordance with and under
+the authority set forth in OMB Circular A-122.
+Accordingly, such rates shall be applied to the extent
+provided in such Circular to grants and contracts to which
+OMB Circular A-122 applies, subject to any limitations in
+part A of this section.  Copies of this document may be
+provided by either party to other federal agencies
+which have or intend to issue or award sponsored agreements
+using these rates or to otherwise provide such agencies
+with documentary notice of this agreement and its terms
+and conditions.
+
+D.   FIXED RATES WITH CARRYFORWARD PROVISIONS:   
+
+     1.   This type of rate is considered final and not
+subject to adjustment in accordance with the provisions
+of OMB Circular A-122 and the Federal Acquisition
+Regulation, subject to the limitations contained in
+Part A of this Section; except that the difference
+between the estimated costs and the actual costs of the
+period covered by the rate is carried forward as an
+adjustment to the rate computation of a subsequent
+period as discussed below.
+
+     2.   The FY 99T rates contained in this agreement
+are based on estimates of the costs for FY 99T.  When
+actual costs for FY99T are determined, adjustments
+will be applied to the next subsequent rate
+negotiation to compensate for the differences between
+the estimated FY 99T costs used to establish the
+FY 99T fixed rates with carryforward provisions and
+the negotiated actual FY 99T costs.
+
+E.   PREDETERMINED RATES
+
+The predetermined rates contained in this agreement
+are not subject to adjustment in accordance with the
+provisions of OMB Circular A-122, subject to the
+limitations contained in Part A of this section. 
+
+F.   Liquidation Of Prior Year Carryforward Amounts:
+The fixed rates set forth herein include the
+liquidation of the following prior year carryforward
+amounts:
+
+                         Onsite Overhead
+                                                               
+                                                                   Remaining
+Fiscal  Total C/F             Previous           Liquidated Thru   Unliquidated
+Year    Amount                Liquidations       FY99T Fixed Rate  Balance
+
+1993    $   73,149(U) Final   $ 11,737(O)('97)   $  84,886(U)      $000
+1994    $  220,373(U) Final   $225,000(U)('98)   $   4,627(O)      $000
+1995    $1,530,584(O) Final   $600,000(O)('97)
+                              $835,000(O)('98)   $  95,584(O)      $000
+1996    $  105,000(U) Est.    $    000           $ 105,000(U)      $000
+        $1,132,062(O)         $1,221,737(O)      $  89,675(U)      $000
+
+               Impact On FY99T Onsite Overhead Rate
+
+        $89,675(U)      = .46%
+        $19,640,000(Base)   
+
+                         Offsite Overhead
+
+                                                                Remaining
+Fiscal  Total C/F           Previous          Liquidated Thru   Unliquidated
+Year    Amount              Liquidations      FY99T Fixed Rate  Balance
+
+1993    $ 20,672(U) Final   $15,000(U)('97)   $ 5,672(U)        $   000
+1994    $116,245(U) Final   $36,000(U)('98)   $44,328(U)        $35,917(U)
+        $136,917(U)         $51,000(U)        $50,000(U)        $35,917(U)
+
+                    Impact On FY99T Offsite Overhead Rate
+          
+        $ 50,000(U)        =   8.13%
+        $615,000(Base)   
+
+                    Subagreement/Flo-Thru Admn.
+                                                                  Remaining
+Fiscal  Total C/F            Previous           Liquidated Thru   Unliquidated
+Year    Amount               Liquidations       FY99T Fixed Rate  Balance
+
+1994    $145,591(O)(Final)   $144,870(O)('97)   $   721(O)        $000
+1995    $207,147(O)(Final)   $197,000(O)('98)   $10,147(O)        $000
+        $352,738(O)          $341,870(O)        $10,868(O)        $000
+
+                    Impact On FY99T Subagreement/Flo-Thru Rate
+
+          $10,868(O)               =   .03%
+          $32,027,000(Base)   
+
+                         G&A  
+                                                                    Remaining
+Fiscal  Total C/F              Previous          Liquidated Thru    Unliquidated
+Year    Amount                 Liquidations      FY99T Fixed Rate   Balance
+
+1993    $1,197,007(O) Final    $ 75,000(U)('98)  $1,272,007(O)      $000
+
+1994    $1,464,392(U) Final    $450,000(U)('95)
+                                300,000(U)('96)
+                                766,000(U)('98)  $   51,608(O)      $000
+
+1995    $1,112,588(O) Final    $646,000(O)('98)  $  466,588(O)      $000
+
+1996    $  624,000(U) Est.     $    000          $  624,000(U)      $000
+
+1997    $1,666,203(U) Est.     $    000          $1,666,203(U)      $000
+        $1,445,000(U)          $945,000(U)       $  500,000(U)      $000
+                    
+
+                    Impact On FY99T G&A (Regular) Rate
+
+
+        $   500,000(U)     =  1.06%
+        $47,251,000(Base)   
+
+Note: C/F Denotes Carryforward          
+
+      (U) Denotes Underrecovery     (O) Denotes Overrecovery
+              
+The FY 96 and FY97 carryforward amounts which have been
+liquidated as part of the FY 99T fixed rates are based on
+estimated amounts which will be adjusted at the time the
+FY96 and FY97 final carryforward amounts are negotiated.
+Differences between the FY 96 and FY97 estimated
+carryforward amounts liquidated herein and the FY96 and
+FY97 final negotiated carryforward amounts will be
+liquidated through the fixed rates of a future year.
+
+The purpose of this agreement is to establish fixed
+rates with carryforward provisions for the period
+1 July 1998 through 31 December 1998.  These rates are
+based on the National Academy Of Sciences' proposal
+dated 9 April 1998, and the establishment of these
+rates by the Government based on the accounting systems
+and allocation methodologies contained in this
+proposal does not represent an agreement that these
+systems and methodologies are accepted for fiscal year
+99T or for any subsequent year's rate negotiation.
+The recommendations of the Defense Contract Audit
+Agency, District Branch in Audit Report 
+#6261-98C23000001 were considered in the negotiation
+of these rates.
+
+NATIONAL ACADEMY OF SCIENCES   FOR THE U.S. GOVERNMENT
+
+
+
+ /S/                           /S/                                                  
+Archie L. Turner               Robert E. Austen
+
+Chief Financial Officer        Contracting Officer                            
+Title                          Title
+
+
+July 8, 1998                   July 8, 1998                                
+Date                           Date
+
+
+       For information concerning this document contact:
+                  R. E. Austen
+                  Office of Naval Research
+                  Indirect Costs/ONR 242
+                    800 N. Quincy Street
+                     Arlington, VA  22217
+                      (703) 696-4514

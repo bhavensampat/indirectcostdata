@@ -1,0 +1,126 @@
+CllgMI Michigan Technological University 470049123 6/15/00 1096
+
+                NEGOTIATION AGREEMENT
+
+INSTITUTION:	MICHIGAN TECHNOLOGICAL UNIVERSITY
+		HOUGHTON, MI 49931-1295
+
+The Facilities and Administrative (F&A) and Fringe Benefit rates contained herein are
+for use on all grants and/or contracts issued or awarded to Michigan Technological
+University by all Federal agencies of the United States of America in accordance with
+the cost principles mandated by the Office of Management and Budget (OMB) Circular
+A-21. These F&A rates shall be used for forward pricing and billing purposes for the
+Michigan Technological University's Fiscal Years 2001, 2002 and 2003. The Fringe
+Benefit Rates shall be used for forward pricing and billing purposes for FY 2001.
+This rate agreement supersedes all previous agreements/determinations for Fiscal
+Years 2001,2002 and 2003.
+
+SECTION: RATES - TYPE: PREDETERMINED (PRED)
+
+Type	From	To	  Rate	  Location	Base	Applicable to
+
+Facilities Administrative Rates:
+
+Pred	7-1-00	6-30-03	  51.0%	  On-Campus    	(a)	Research
+
+Pred	7-1-00	6-30-03	  26.0%	  Off-Campus   	(a)	Research
+
+Fringe Benefit Rates:
+
+Pred	7-1-00	6-30-01	  38.0%		        (b)	Base Rate for
+ 						        All Employees
+
+Pred	7-1-00	6-30-01   57.0%	                (c)	Grant Funded
+							Employees
+                               
+                                 DISTRIBUTION BASE
+
+(a) Modified Total Direct Costs (MTDC), as defined in OMB Circular A-21, consisting of
+all salaries and wages, fringe benefits, materials and supplies, services, travel,
+and subgrants and subcontracts up to the first $25,000 of each subgrant or subcontract
+(regardless of the period covered by the subgrant or subcontract). Equipment, capital
+expenditures, charges for patient care and tuition remission, rental costs, scholarships
+and fellowships as well as the portion of each subgrant and subcontract in excess of
+$25,000 shall be excluded from modified total direct costs.
+
+(b) Non-Student Salary and Wages.
+
+(c) Research Centers' and Institutes" Non-Student Salaries and Wages.
+
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+A. LIMITATIONS: Use of the rates set forth under Section I of this agreement is
+expressly subject to any statutory or administrative limitations and is
+applicable to a given grant, contract, or other agreement only to the extent
+that funds are available and consistent with any and all limitations of cost
+clauses or provisions, if any, contained therein. Acceptance of any or all of
+the rates agreed to herein is predicated upon all the following conditions:
+(1) that no costs other than those incurred by the grantee/contractor were
+included in its indirect cost pool as finally accepted and that all such
+costs are legal obligations of the grantee/contractor and allowable under the
+governing and applicable cost principles; (2) that the same costs that have
+been treated as indirect costs are not claimed as direct costs; (3) that
+similar types of costs have been accorded consistent accounting treatment; and
+(4) that the information provided by the contractor/grantee, which was used as
+the basis for the acceptance of the rate(s) agreed to herein and expressly
+relied upon by the Government in negotiating and accepting the said rates,
+is not subsequently found to be materially incomplete or inaccurate.
+
+B. ACCOUNTING CHANGES: The predetermined rates contained in Section I of this
+agreement are based on the accounting system in effect at the time this
+agreement was negotiated. Changes to the method(s) of accounting for costs
+which affects the amount of reimbursement resulting from the use of these rates
+requires the express and written approval of the authorized representative of
+the cognizant negotiating agency for the Government prior to implementation of
+any such changes. Such changes include but are not limited to changes in the
+charging of a particular type of cost from indirect to direct. Failure on the
+part of the grantee/contractor to obtain the required approval may result in
+subsequent cost disallowances.
+
+C. PREDETERMINED RATES: The predetermined rates contained in this agreement are
+not subject to adjustment in accordance with the provisions of OMB Circular A-21,
+subject to the limitations contained in Part A of this section.
+
+D. USE BY OTHER FEDERAL AGENCIES: The rates set forth in SECTION I hereof were
+negotiated in accordance with and under the authority set forth in OMB Circular
+A-21. Accordingly, such rates shall be applied, to the extent provided in such
+circular, to grants and contracts to which OMB Circular A-21 is applicable,
+subject to any limitations in part A of this section. Copies of this document
+may be provided by either party to other Federal agencies which have or intend
+to issue or award grants and/or contracts to Michigan Technological University
+to use the stated rates or to otherwise provide such agencies with documentary
+notice of this agreement and its terms and conditions.
+
+E. DFARS WAIVER: Signature of this agreement by the authorized representatives
+of Michigan Technological University and the Government, acknowledges and
+affirms the University's request for waiver of the prohibition contained in
+DFARS 231.303 (1) and the Government's exercise of its discretion under DFARS
+231.303 (2) to waive the prohibition in DFARS 231.303(1). The waiver request
+by Michigan Technological University is made to simplify the University's
+overall management of DOD cost reimbursements under DOD contracts.
+
+
+FOR MICHIGAN TECHNOLOGICAL			   FOR THE GOVERNMENT 
+UNIVERSITY:								
+
+
+/s/ 						   /s/
+
+				
+William J. McGarry				   Michael Kuc 
+Vice President for Finance and Administration	   Contracting Officer
+and Treasurer of the Board of Control
+
+15 Jun 00                                          15 Jun 00
+Date			 			   Date
+
+
+
+FOR INFORMATION CONCERNING THIS AGREEMENT CONTACT:
+OFFICE OF NAVAL RESEARCH
+RAY EICHMAN
+INDIRECT COST DIVISION/ONR 242
+800 N. QUINCY STREET
+BCT # 1, ROOM 704
+ARLINGTON, VA 22217
+(703) 696-2586 or (703) 696-4430 FAX

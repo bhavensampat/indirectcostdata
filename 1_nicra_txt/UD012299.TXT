@@ -1,0 +1,208 @@
+NPrfDC  National Academy Of Sciences 530196932 8/17/99  0122
+                  
+                            NEGOTIATION AGREEMENT
+
+               Institution:   National Academy Of Sciences
+                              2101 Constitution Avenue
+                              Washington, D.C. 20418
+
+The Indirect Cost rates contained herein are for use on grants and contracts with all Federal
+Agencies of the United States of America, in accordance with the provisions and cost
+principles mandated by Office of Management and Budget (OMB) Circular A-122.  These
+rates shall be used for forward pricing and billing purposes for the National Academy Of
+Sciences fiscal years 1999 and 2000.  This rate agreement supersedes all previous rate
+agreements for Fiscal Years 1999 and 2000.  
+
+SECTION I: RATES - TYPE:   FIXED WITH CARRYFORWARD PROVISIONS (FIXED),
+                          AND PREDETERMINED (PRED)
+                                                         APPLICABLE 
+TYPE     ACCOUNT    FROM   TO          RATE     BASE     TO              LOCATION
+
+Fixed    Overhead   1/1/99 12/31/99    58.42%   (a)      All programs    Onsite
+
+Fixed    Overhead   1/1/00 12/31/00    58.36%   (a)      All programs    Onsite
+                         
+Fixed    Overhead   1/1/99 12/31/99    43.56%   (b)      Programs        Offsite
+
+Fixed    Overhead   1/1/00 12/31/00    43.50%   (b)      Programs        Offsite
+                                                  
+Fixed    Sub-       1/1/99 12/31/99     2.88%   (c)      All programs    All
+         agreement
+
+Fixed    Sub-       1/1/00 12/31/00     2.79%   (c)      All programs    All
+         agreement
+                                                                                                     
+                                                         APPLICABLE
+TYPE     ACCOUNT    FROM    TO         RATE     BASE     TO              LOCATION
+
+Fixed    G&A        1/1/99  12/31/99   20.27%   (d)      All programs    All
+
+Fixed    G&A        1/1/00  12/31/00   20.27%   (d)      All programs    All
+
+Fixed    Leave      1/1/99  12/31/99   16.89%   (e)      All programs    All
+ 
+Fixed    Leave      1/1/00  12/31/00   16.89%   (e)      All programs    All
+
+Fixed    Fringe     1/1/99  12/31/99   26.89%   (f)      All programs    All
+
+Fixed    Fringe     1/1/00  12/31/00   26.86%   (f)      All programs    All
+
+Study Center:
+ 
+Pred     Usage      1/1/99  12/31/99   $24.15    (g)     All Programs    Woods Hole
+
+Pred     Usage      1/1/00  12/31/00   $25.35    (g)     All Programs    Woods Hole
+
+Pred     Food       1/1/99  12/31/99   $22.05    (g)     All Programs    Woods Hole
+
+Pred     Food       1/1/00  12/31/00   $23.15    (g)     All Programs    Woods Hole
+
+Cost Of Money Rates (COM)
+
+                                                         APPLICABLE 
+TYPE ACCOUNT        FROM    TO          RATE      BASE   TO               LOCATION
+
+Fixed   Overhead    1/1/99  12/31/99    1.27320%  (a)    All programs     Onsite
+
+Fixed   Overhead    1/1/00  12/31/00    1.23610%  (a)    All programs     Offsite
+ 
+Fixed   Overhead    1/1/99  12/31/99    0.14350%  (b)    Programs         Offsite
+
+Fixed   Overhead    1/1/00  12/31/00    0.13790%  (b)    Programs         Offsite
+
+Fixed   Subt        1/1/99  12/31/99    0.00760%  (c)    All programs     All
+        agreement
+
+Fixed   Sub         1/1/00  12/31/00    0.00750%  (c)    All programs     All
+        agreement  
+
+                                                         APPLICABLE 
+TYPE ACCOUNT       FROM     TO          RATE      BASE   TO               LOCATION
+                                                                   
+Fixed   G&A        1/1/99   12/31/99    0.11660%  (d)    All programs     All 
+                                                                                
+Fixed   G&A        1/1/00   12/31/00    0.11340%  (d)    All programs     All 
+
+
+                            DISTRIBUTION BASE
+
+(a)  Direct labor dollars composed of total direct salaries and wages, accrued leave,
+fringe benefits, consulting fees onsite, temporary personnel onsite, borrowed
+personnel onsite, and other personal services onsite.
+
+(b)  Direct labor dollars composed of total direct salaries and wages, accrued leave,
+fringe benefits, consulting fees onsite, temporary personnel onsite, borrowed
+personnel onsite, and other personal services onsite performed at locations other
+than 2001Wisconsin Avenue, 2101 Constitution Avenue, 1055 Thomas Jefferson Street,
+2133 Wisconsin Avenue, and 1000 Thomas Jefferson Street.
+
+(c)  Subagreements, associateship/fellowship expenses, dues to international
+organizations, and direct charged equipment. 
+
+(d)  Direct labor dollars, other direct costs (except for subagreements,
+associateship/fellowship expenses, dues to international organizations, and
+direct charged equipment), and applied overhead.
+
+(e)   Gross salaries and wages less: spending account, overtime premium,
+annual leave, salary continuation, holiday leave, other leave, hourly
+employees, full time temporaries, part-time regular (<50%), part-time
+temporary, hourly and severance pay.
+
+(f)   Leave pool base (as described above), plus part-time regular
+(<50%), overtime premium and leave assessed.
+
+(g)   Per day, per person.  Daily food allowance covers breakfast, lunch,
+and snacks.
+
+                                                                                                        
+SECTION II - GENERAL                                                    
+
+A.   LIMITATIONS:  Use of the rates set forth under Section I is subject
+to any statutory or administrative limitations and is applicable to a
+given grant or contract only to the extent that funds are available.
+Acceptance of the rates agreed to herein is predicated upon  the
+following conditions: (1) that no costs other than those incurred by the
+grantee/contractor were included in this indirect cost pool as finally
+accepted and that such costs are legal obligations of the grantee/
+contractor and allowable under governing cost principles; (2) that the
+same costs that have been treated as indirect costs are not claimed
+as direct costs; (3) that similar types of costs have been accorded
+consistent accounting treatment; and (4) that the information provided
+by the grantee/contractor which was used as a basis for acceptance of
+the rates agreed to herein, and expressly relied upon by the
+Government in negotiating and accepting the said rates is not
+subsequently found to be materially incomplete or inaccurate.          
+
+B.   ACCOUNTING CHANGES:  The rates contained in Section I of this
+agreement are based on the accounting system in effect at the time
+the agreement was negotiated.  Changes to the method(s) of accounting
+for costs which affect the amount of reimbursement resulting from the
+use of these rates require the prior approval of the authorized
+representative of the cognizant negotiation agency.  Such changes
+include but are not limited to changes in the charging of a
+particular type of cost from indirect to direct.  Failure to
+obtain such approval may result in subsequent cost disallowances.
+
+C.   USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section
+I were negotiated in accordance with and under the authority set
+forth in OMB Circular A-122. Accordingly, such rates shall be
+applied to the extent provided in such Circular to grants and
+contracts to which OMB Circular A-122  applies, subject to any
+limitations in part A of this section.  Copies of this
+document may be provided by either party to other federal
+agencies which have or intend to issue or award sponsored
+agreements using these rates or to otherwise provide such agencies
+with documentary notice of this agreement and its terms and conditions.
+
+D.   FIXED RATES WITH CARRYFORWARD PROVISIONS: The fixed rates
+contained in this agreement are based on estimates of the costs for
+FY 1999 and FY 2000.  When actual costs for FY 1999 are determined,
+over or under recoveries may be included as an adjustment to a
+subsequent rate negotiation to recover the difference between the
+FY 1999 estimated costs used to establish the fixed rates and the
+negotiated FY 1999 actua  costs.    When actual costs for FY 2000
+are determined, over or under recoveries may be included as an
+adjustment to a subsequent rate negotiation to recover the
+difference between the FY 2000 estimated costs used to establish
+the fixed rates and the negotiated FY 2000 actual costs.
+
+E.   PREDETERMINED RATES: The predetermined rates contained in
+this agreement are not subject to adjustment in accordance with
+the provisions of OMB Circular A-122, subject to the limitations
+contained in Part A of this section. 
+
+F.   CARRY-FORWARD AMOUNTS: The rates set forth in Section I
+include liquidation of the following prior year carryforward
+amounts as follows:
+
+G.  SPECIAL REMARKS: The establishment of these rates by the
+Government, based on the accounting systems and allocation
+methodologies contained in effect at the time the agreement
+was negotiated does not represent an agreement that these
+systems and methodologies are accepted for fiscal years 1999
+and 2000 or for any subsequent rate negotiation. 
+
+
+Acceptance:
+
+
+FOR THE NATIONAL ACADEMY OF SCIENCES:     FOR THE U.S. GOVERNMENT:
+
+
+/s/                                       /s/                                                   
+ARCHIE L. TURNER                          DEBORAH K. RAFI
+Chief Financial Officer                   Contracting Officer                            
+
+
+17 August 1999                            17 August 1999                               
+Date                                      Date
+
+                                   
+                For information concerning this document contact:
+                            Deborah K. Rafi
+                       Office of Naval Research
+                        Indirect Costs/ONR 242
+                         800 N. Quincy Street
+                         Arlington, VA  22217
+                            (703) 696-5641
+                      E-mail: rafid@onr.navy.mil

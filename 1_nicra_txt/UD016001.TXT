@@ -1,0 +1,137 @@
+CllgMA Wentworth Institute 044814606 6/1/00   0160
+
+              NEGOTIATION AGREEMENT
+
+INSTITUTION:  WENTWORTH INSTITUTE OF TECHNOLOGY
+              BOSTON, MASSACHUSETTS
+
+The Facilities & Administrative cost and Employee Benefits rates contained herein are
+for use on grants, contracts and/or other agreements issued or awarded to Wentworth
+Institute of Technology by all Federal Agencies of the United States of America, in
+accordance with the provisions and cost principles mandated by the Office of
+Management and Budget (OMB) Circular A-21.  These rates shall be used for forward
+pricing and billing purposes for Wentworth Institute of Technology's Fiscal Year 2001.
+This rate agreement supersedes all previous rate agreements or determinations for
+Fiscal Year 2001. 
+
+SECTION I:  RATES - TYPE: PREDETERMINED (PRED) 
+
+
+Facilities & Administrative Rates (Indirect Cost):
+
+Effective Period
+
+Type   From    To        Rate    Base   Location     Applicable to
+
+
+Pred   7/1/00  6/30/01   26.5%   (a)    On  Campus   Organized Research (1)
+
+Pred   7/1/00  6/30/01   26.0%   (a)    Off Campus   Organized Research (1)
+
+Pred   7/1/00  6/30/01   43.0%   (a)    Off Campus   Organized Research (2)
+
+Employee Benefits Rate:
+
+Type   From    To        Rate    Base                Applicable to
+
+Pred   7/1/00  6/30/01   18.51%  (b)                 All Except Wentworth Lab
+
+Pred   7/1/00  6/30/01   14.85%  (b)                 Wentworth Lab
+
+                        DISTRIBUTION BASE:
+
+(a) Modified Total Direct Cost (MTDC), as defined in OMB Circular A-21, consisting of
+all salaries and wages, fringe benefits, materials and supplies, services, travel and
+subgrants and subcontracts up to the first $25,000 of each subgrant or subcontract
+(regardless of the period covered by the subgrant or subcontract).  Equipment,
+capital expenditures, charges for patient care and tuition remission, rental costs,
+scholarships, and fellowships as well as the portion of each subgrant and subcontract
+in excess of $25,000 shall be excluded.
+
+(b) Direct Labor Dollars (excluding temporary labor).
+
+APPLICABLE TO
+
+(1) Applies to DOD contracts awarded before November 30, 1993, all non-DOD instruments,
+and all DOD grants.
+
+(2) Applies only to DOD contracts awarded on or after November 30, 1993 in accordance
+with and under the authority of DFARS 231.303(1). See Section II, Part E. 
+
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+A.  LIMITATIONS:  Use of the rates set forth under Section I is subject to any statutory
+or administrative limitations and is applicable to a given grant, contract or other
+agreement only to the extent that funds are available and consistent with any and all
+limitations of cost clauses or provisions, if any, contained therein.  Acceptance of the
+rates agreed to herein is predicated upon all the following conditions: (1) that no
+costs other than those incurred by the grantee/contractor were included in the indirect
+cost pool as finally accepted and that all such costs are legal obligations of the
+grantee/contractor and allowable under governing cost principles; (2) that the same
+costs that have been treated as indirect costs are not claimed as direct costs; (3)
+that similar types of costs have been accorded consistent accounting treatment; and
+(4) that the information provided by the contractor/grantee, which was used as the
+basis for the acceptance of the rates agreed to herein and expressly relied upon by
+the Government in negotiating and accepting the said rates, is not subsequently
+found to be materially incomplete or inaccurate.
+
+B.  ACCOUNTING CHANGES: The rates contained in Section I of this agreement are based on
+the accounting system in effect at the time this agreement was established.  Changes to
+the method(s) of accounting for costs which affects the amount of reimbursement
+resulting from the use of these rates require the written approval of the authorized
+representative of the cognizant negotiating agency for the Government prior to
+implementation of any such changes.  Such changes include but are not limited to
+changes in the charging of a particular type of cost from indirect to direct.  Failure
+to obtain such approval may result in subsequent cost disallowances.
+
+C.  PREDETERMINED RATES: The predetermined rates contained in this agreement are not
+subject to adjustment in accordance with the provisions of OMB Circular A-21, subject to
+the limitations contained in Part A of this section.
+
+D.  USE BY OTHER FEDERAL AGENCIES: The rates set forth in Section I hereof were
+established in accordance with and under the authority set forth in OMB Circular A-21.
+Accordingly, such rates shall be applied to the extent provided in such circular to
+grants, contracts and other agreements to which OMB Circular A-21 is applicable,
+subject to any limitations in part A of this section.  Copies of this document may be
+provided by either party to other Federal agencies which have or intend to issue or
+award agreements using these rates, or to otherwise provide such agencies with
+documentary notice of this determination and its terms and conditions. 
+
+E.  APPLICATION OF INDIRECT COST RATES TO DoD CONTRACTS/SUBCONTRACTS: 
+
+1. Signature of this agreement by the authorized representatives of Wentworth Institute
+of Technology and the Government, acknowledges and affirms the Institution=s request for
+waiver of the prohibition contained in DFARS 231.303(1) and the Government=s exercise of
+its discretion under DFARS 231.303(2) to waive the prohibition in DFARS 231.303(1) for
+the onsite Organized Research Facility and Administration cost rate cited in Section I.
+
+2. In accordance with DFARS 231.303, no limitation (unless waived by the institution)
+may be placed on the reimbursement of otherwise allowable indirect costs incurred by an
+institution of higher education under a DOD contract awarded on or after
+November 30, 1993, unless the same limitation is applied uniformly to all other
+organizations performing similar work. It has been determined by the Department of
+Defense that such limitation is not being uniformly applied. Accordingly, the rates
+cited  "(2)" of Section I, as explained under the title " APPLICABLE TO," do not
+reflect the application of the 26% limitation on administrative indirect costs
+imposed by OMB Circular A-21, whereas "(1)" does.
+
+Accepted:
+
+FOR WENTWORTH INSTITUTE				FOR THE GOVERNMENT:
+  OF TECHNOLOGY:
+
+
+/s/            				        /s/
+SANDRA PASCAL					DEBORAH K. RAFI
+Associate Vice President of 			Contracting Officer
+   Business & Finance
+
+
+23 May 2000					1 June 2000
+Date     					Date
+
+For information concerning this document contact:
+DEBORAH K. RAFI					PHONE: (703) 696-5641
+OFFICE OF NAVAL RESEARCH			EMAIL: rafid@onr.navy.mil
+BCT #1,  Rm. 704
+800 N. QUINCY STREET, ARLINGTON, VA 22217

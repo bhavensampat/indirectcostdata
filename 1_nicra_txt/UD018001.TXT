@@ -1,0 +1,239 @@
+CllgPA The Pennsylvania State University  246000376  6/27/00  0180
+
+                   NEGOTIATION AGREEMENT 
+                                                                           
+INSTITUTION:    THE PENNSYLVANIA STATE UNIVERSITY
+                UNIVERSITY PARK, PA 16801-3857
+
+The Facilities and Administrative (F&A) cost rates and Fringe Benefit rates
+contained herein are for use on grants, contracts and/or other agreements issued
+or awarded to The Pennsylvania State University (PSU) by all Federal Agencies of
+the United States of America, in accordance with the cost principles mandated by
+the Office of Management and Budget (OMB) Circular A-21. These rates shall be
+used for forward pricing and billing purposes for the PSU's Fiscal Year 2001. 
+This rate agreement supersedes all previous rate agreements/determinations for
+Fiscal Year 2001.
+                                                                          
+Section I: RATES - TYPE: FIXED WITH CARRY-FORWARD PROVISIONS(FIXED),              
+                 AND PREDETERMINED (PRED)  
+                                                                           
+TYPE   FROM      TO      RATE   BASE    APPLICABLE TO/LOCATION
+
+University Park
+
+Fixed  7/1/00   6/30/01   41.4%  (a)   On Campus Organized Research, All
+                                       Locations Except ARL* & HMC**      
+
+Fixed  7/1/00   6/30/01   22.0%  (a)   Off Campus Organized Research,             
+                                       All Locations Except ARL & HMC    
+
+Fixed  7/1/00   6/30/01    7.6%  (a)   Organized Research, ARL
+
+Fixed  7/1/00   6/30/01   36.7%  (a)   On Campus Instruction, All
+                                       Locations Except ARL & HMC
+
+Fixed  7/1/00   6/30/01   16.4%  (a)   Off Campus Instruction, All
+                                       Locations Except ARL & HMC
+
+Hershey Medical Center
+
+Fixed  7/1/00   6/30/01   53.9%  (a)   On Campus Research, HMC (1)
+
+Fixed  7/1/00   6/30/01   24.3%  (a)   Off Campus Research, HMC (1)
+
+Fixed  7/1/00   6/30/01   53.9%  (a)   On Campus Research, HMC (2)
+
+Fixed  7/1/00   6/30/01   24.3%  (a)   Off Campus Research, HMC (2)
+
+Applied Research Laboratory Internal Rates
+
+Fixed  7/1/00   6/30/01   21.8%  (b)   Authorized Absences     ARL
+
+Fixed  7/1/00   6/30/01   40.5%  (c)   Internal Overhead       ARL
+
+Pred   7/1/00   6/30/01    1.4%  (c)   Use Charge -         
+                                       Government Property     ARL   
+Fringe Benefits
+
+Fixed  7/1/00   6/30/01   24.1%  (d)   Salaries                All
+
+Fixed  7/1/00   6/30/01    7.9%  (e)   Wages                   All
+
+Fixed  7/1/00   6/30/01    4.2%  (f)   Graduate Assistants     All
+
+Fixed  7/1/00   6/30/01     .4%  (g)   Students                All
+
+
+*  Applied Research Laboratory
+** Hershey Medical Center
+
+                         DISTRIBUTION BASE
+
+     (a)  Modified total direct cost (which includes fringe benefits), excludes
+graduate tuition remission, capital equipment (defined as having a expected life
+of two years or more and acquisition cost of $5,000 or more), plant construction,
+building amortization, the portion of each subgrant and subcontract in excess of
+$25,000, and patient care costs.
+
+     (b)  ARL salaries, excluding graduate assistants, fixed term 2 and
+visiting faculty appointments not receiving full benefits.
+
+     (c) ARL  MTDC as defined in (a) above.
+
+     (d) Salaries, excluding graduate assistants, fixed term 2 and visiting
+faculty appointments not receiving full benefits.
+
+     (e)  Wages and those salaries not receiving full benefits, exclusive of
+graduate assistants and student wages.
+
+     (f) Graduate assistants salaries.
+
+     (g) Student wages.           
+                         APPLICABLE TO
+
+     (1)  Applies to all Non-DoD Instruments, all DoD Grants and to DoD
+contracts awarded before November 30, 1993.
+
+     (2)  Applies to only DoD contracts awarded on or after November 30, 1993
+in accordance with and under the authority of DFARS 231.303(1).  See Section II,
+Part F hereof.
+
+                                                                  
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+                                                                  
+
+A. LIMITATIONS: Use of the rates set forth under Section I is subject to any
+statutory or administrative limitations and is applicable to a given grant,
+contract or other agreement only to the extent that funds are available and
+consistent with any and all limitations of cost clauses or provisions, if any,
+contained therein.  Acceptance of any or all of the rates agreed to herein is
+predicated upon all the following conditions: (1) that no costs other than those
+incurred by the grantee/contractor were included in its indirect cost pool as
+finally accepted and that all such costs are legal obligations of the
+grantee/contractor and allowable under governing cost principles; (2) that the
+same costs that have been treated as indirect costs are not claimed as direct
+costs; (3) that similar types of costs, in like circumstances, have been accorded
+consistent accounting treatment; and (4) that the information provided by the
+contractor/grantee, which was used as the basis for the acceptance of the rates
+agreed to herein and expressly relied upon by the Government in negotiating the
+said rates, is not subsequently found to be materially incomplete or inaccurate.
+
+
+B. ACCOUNTING CHANGES: The rates contained in Section I of this agreement are
+based on the accounting system in effect at the time this agreement was
+negotiated. Changes to the method(s) of accounting for costs, which affects the
+amount of reimbursement resulting from the use of these rates, require the
+written approval of the authorized representative of 
+the cognizant negotiating agency for the Government prior to implementation of
+any such changes.  Such changes include but are not limited to changes in the
+charging of a particular type of cost from indirect to direct.  Failure to obtain
+such approval may result in subsequent cost disallowances.
+
+C. FIXED RATES WITH CARRY-FORWARD PROVISIONS:  The fixed rates contained in this
+agreement are based on estimates of the costs for FY 2001. When actual costs for
+this fiscal year are determined, adjustments will be applied to the next
+subsequent rate negotiation to recognize the difference between the FY 2001
+estimated costs used to establish the fixed rates and the negotiated actual FY
+2001 costs. 
+
+D. PREDETERMINED RATES:  The predetermined rates contained in this agreement are
+not subject to adjustment in accordance with the provisions of OMB Circular A-21,
+subject to the limitations contained in Part A of this section. 
+
+E. CARRY-FORWARD AMOUNTS:     
+
+The following carryforward amounts were considered in the
+establishing the FY 2001 rates:
+
+                           FY 1998         FY 1999          
+                          Finalized        Proposed        
+                           Note (a)        Note (b)(c)              
+Research rates:
+On Campus                 $  (1,867)      $   174,076      
+Off Campus                     (101)             (356)
+
+Instruction:
+On Campus                 $ (38,188)      $(6,497,587)    
+
+ARL Rate:
+Site Rate                 $  (1,596)      $    54,772         
+
+Hershey Medical Center:
+Hershey                   $ (86,177)      $ 1,119,638      
+Weis Res. Ctr.                            $ 1,262,899         
+
+ARL Internal Rates:
+Authorized Absence                        $   580,768
+Internal Overhead                         $ 1,603,617
+Use Charge-Gov't Prop.                         -
+
+Fringe Benefit Rates:
+Salaries                                  $(8,143,000)
+Graduate Asst.                            $   (65,000)
+Wages                                     $  (153,000)
+Student Wages                                     -
+
+Note (a): The FY 1998 carry-forward amount represents the
+difference between the final negotiated FY 1998 carry-forward
+amount and the estimated carry-forward amount included in the FY
+2000 fixed rate.
+
+Note (b): The estimated FY 1999 carry-forward amounts will be
+included in the FY 2001 rates. After the FY 1999 rates are
+finalized, any difference between the estimated FY 1999 carry-
+forward amount and the actual carry-forward amount will be included
+as an adjustment in a subsequent year rate negotiation.
+
+Note (c): Of the estimated FY 1999 under-recovery of $1,485,764 at
+the Weis Research Center, the parties agreed that $1,262,899 will
+be considered in the FY 2001 Hershey Medical Center rate. The
+remaining amount of $222,864 should be allocated to and considered
+in the Geisinger Health System rates.
+ 
+( ) Denotes over-recovery
+
+F. APPLICATION OF INDIRECT COST RATES TO DoD CONTRACTS/SUBCONTRACTS:  In
+accordance with DFARS 231.303, no limitation (unless waived by the
+institution) may be placed on the reimbursement of otherwise allowable
+indirect costs incurred by an institution of higher education under a DOD
+contract awarded on or after November 30, 1993, unless the same
+limitation is applied uniformly to all other organizations performing
+similar work.  It has been determined by the Department of Defense that
+such limitation is not being uniformly applied.  Accordingly, the rates
+cited (2) of Section I, as explained under the title "APPLICABLE TO" (2),
+do not reflect the application of the 26% limitation on administrative
+indirect costs imposed by OMB Circular A-21 where as (1) does so.
+
+G. USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section I
+hereof were negotiated in accordance with and under the authority set
+forth in OMB Circular A-21.  Accordingly, such rates shall be applied to
+the extent provided in such circular to grants and contracts to which OMB
+Circular A-21 is applicable, subject to any limitations in part A of this
+section. Copies of this document may be provided by either party to other
+Federal agencies which have or intend to issue or award grants and
+contracts using these rates or to otherwise provide such agencies with
+documentary notice of this agreement and its terms and conditions. 
+
+
+PENNSYLVANIA STATE UNIVERSITY:             FOR THE GOVERNMENT:
+
+
+/S/                                        /S/                         
+
+KENNETH S. BABE                            MICHAEL KUC        
+Corporate Controller                       Contracting Officer      
+                                 
+
+6/27/00                                    6/27/00                         
+Date                                       Date
+
+
+          For information concerning this agreement contact:
+                    OFFICE OF NAVAL RESEARCH
+                    MICHAEL KUC
+                    INDIRECT COSTS/ONR 242
+                    800 N. QUINCY STREET
+                    ARLINGTON, VA  22217
+                    PHONE:  (703) 696-2571
+

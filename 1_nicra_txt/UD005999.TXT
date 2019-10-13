@@ -1,0 +1,260 @@
+
+
+
+
+CllgGA  Georgia Tech Applied Research Corporation 582374837 6/4/98 0059
+                                                                                                                                                    
+                    PROVISIONAL RATE AGREEMENT 
+ 
+Institution:   GEORGIA INSTITUTE OF TECHNOLOGY
+               GEORGIA TECH APPLIED RESEARCH CORPORATION
+               ATLANTA, GEORGIA  30332
+
+The indirect cost rates and fringe benefit rates contained herein are 
+for use on grants, contracts and/or other agreements issued or awarded 
+to the Georgia Institute of Technology/Georgia Tech Applied Research 
+Corporation (GIT/GTARC) by all Federal Agencies of the United States 
+of America, in accordance with the provisions of OMB Circular A-122, 
+the Federal Acquisition Regulation (FAR), and the cost principles 
+mandated by FAR Section 31.2.  These rates shall be used for forward 
+pricing and billing purposes at GIT/GTARC for the period(s) 
+indicated under Section I below.  This rate agreement supersedes all 
+previous rate agreements for Fiscal Year (FY) 1999.  
+
+SECTION I: RATES - TYPE:  PROVISIONAL (PROV) 
+ 
+      INDIRECT                                      APPLIC-
+TYPE  EXPENSE POOL    FROM    TO       RATE   BASE  ABLE TO    LOCATION 
+
+Prov  Lab OH          7/1/98  6/30/99  67.9%  (a)   All        GTRI*
+      (Atlanta Labs)                                Activities
+
+Prov  Lab OH          7/1/98  6/30/99  33.3%  (a)   All        GTRI
+      (Arlington Lab)                              Activities
+
+Prov  Lab OH          7/1/98  6/30/99  33.6%  (a)   All        GTRI
+      (Huntsville Lab)                              Activities     
+
+Prov  Field Sites     7/1/98  6/30/99  32.4%  (a)   All        GTRI
+      Rate                                          Activities
+
+Prov  Fringe (Full)   7/1/98  6/30/99  27.00% (b)   All        GTRI
+                                                    Activities
+
+Prov  Fringe          7/1/98  6/30/99   1.40% (c)   All        GTRI
+      (Partial)                                     Activities
+
+Prov  G&A             7/1/98  6/30/99 13.122% (d)   All        GTRI
+                                                    Activities
+
+Prov  Cost Of Money   7/1/98  6/30/99  2.215% (a)   All        GTRI
+      (Atlanta Labs)                                Activities
+
+Prov  Cost Of Money   7/1/98  6/30/99   .198% (a)   All        GTRI
+      (Arlington Lab)                               Activities
+
+Prov  Cost Of Money   7/1/98  6/30/99   .526% (a)   All        GTRI
+      (Huntsville Lab)                              Activities
+
+* Georgia Tech Research Institute
+
+                        DISTRIBUTION BASE
+          
+     (a)  Total labor cost consisting of direct labor dollars plus 
+compensated absences allowance,  plus fringe benefits.
+
+     (b)  Salaries and wages of (i) regular full-time faculty, (ii) 
+principal investigators, (iii) professional and administrative staff, 
+(iv) joint staff, (v) temporary academic or research professionals 
+participating in Institute retirement programs and group health and 
+life insurance, (vi) bi-weekly permanent employees and (vii) 
+part-time employees who work 50 percent but less than 100 percent 
+of a full-time work schedule.
+
+     (c)  Salaries and wages of employees who participate in all 
+or part of the social security program but do not participate in 
+retirement or group health and life insurance plans.  This rate 
+covers (i) temporary classified persons, (ii) temporary academic 
+or research professionals not eligible for the retirement 
+programs or group health or life insurance coverage, (iii) 
+student employees who are registered for less than a full 
+academic load and (iv) part-time employees employed for less 
+than 50 percent of a full work schedule.
+
+     (d)  Total value added cost input, consisting of labor 
+cost, laboratory overhead, materials, other operating 
+expense, equipment, and travel.  Subcontract costs are 
+excluded from the total value added cost input base.
+                                                                                                                                                                     
+SECTION II - GENERAL                                                    
+                                                                                                                                                           
+A.   LIMITATIONS:  Use of the rates set forth under 
+Section I is subject to any statutory or administrative 
+limitations and is applicable to a given grant or contract 
+only to the extent that funds are available.  Acceptance 
+of the rates agreed to herein is predicated upon all of 
+the following conditions: (1) that no costs other than 
+those incurred by the grantee/contractor were included in 
+the above indirect cost pools as finally accepted and that 
+such costs are legal obligations of the grantee/contractor 
+and allowable under governing cost principles, (2) that the 
+same costs that have been treated as indirect costs are not 
+claimed as direct costs, (3) that similar types of costs 
+have been accorded consistent accounting treatment, and (4)
+that the information provided by the grantee/contractor 
+which was used as a basis for acceptance of the rates 
+agreed to herein, and expressly relied upon by the Government 
+in negotiating and accepting the said rates is not 
+subsequently found to be materially incomplete or inaccurate.          
+
+
+B.   ACCOUNTING CHANGES:  The rates contained in Section I 
+of this agreement are based on the accounting system in 
+effect at the time the agreement was negotiated.   Changes 
+to the method(s) of accounting for costs which affect the 
+amount of reimbursement resulting from the use of these 
+rates require the prior approval of the authorized
+representative of the cognizant negotiation agency.  Such 
+changes include but are not limited to changes in the 
+charging of a particular type of cost from indirect to 
+direct.  Failure to obtain such approval may result in 
+subsequent cost disallowances.
+
+C.   USE BY OTHER FEDERAL AGENCIES:  The rates set 
+forth in Section I were negotiated in accordance with and
+under the authority set forth in OMB Circular A-122 and
+the FAR. Accordingly, such rates shall be applied to the
+extent provided in OMB Circular A-122 and the FAR to
+grants and contracts to which OMB Circular A-122 and the 
+FAR apply, subject to any limitations in part A of this 
+section.  Copies of this document may be provided by 
+either party to other federal agencies which have or 
+intend to issue or award sponsored agreements using 
+these rates or to otherwise provide such agencies with 
+documentary notice of this agreement and its terms and 
+conditions.
+
+
+D.  LIQUIDATION OF PRIOR YEAR CARRYFORWARD AMOUNTS: Shown
+below are the prior year carryforward amounts that are 
+being liquidated through the FY99 provisional rates set 
+forth above :
+
+
+                    FRINGE BENEFITS
+
+1.  The FY 99 "Full Fringe Benefit" rate set forth
+above includes the liquidation of an estimated $18,000 
+overrecovery amount from FY 97.  The FY 97 estimated 
+carryforward amount liquidated herein will be credited 
+against the FY97 negotiated final total carryforward
+amount for the purpose of calculating any FY97 remaining
+unliquidated carryforward balance.
+
+2.  The FY 99 "Partial Fringe Benefit" rate set forth
+above includes the liquidation of an estimated $5,000
+overrecovery amount from FY 97.  The FY 97 estimated 
+carryforward amount liquidated herein will be credited
+against the FY97 negotiated final total carryforward
+amount for the purpose of calculating any FY97 
+remaining unliquidated carryforward balance.
+
+                                 GTRI
+
+$ 8,517,000 (O)    FY 87 - FY 94 Cumulative Final 
+                   Carryforward Amounts
+  
+    953,000 (U)    FY 95 Final Carryforward Amount
+
+  1,330,000 (O)    FY 96 Final Carryforward Amount
+
+  1,154,000 (O)    FY 97 Estimated Carryforward 
+                   Amount*
+
+$10,048,000 (O)    Cumulative Carryforward To Be 
+                   Liquidated
+
+    415,000 (O)    Amount Liquidated In FY 93 
+                   Fixed Rate
+
+    636,000 (O)    Amount Liquidated in FY 95 
+                   Fixed Rate
+
+  2,093,000 (O)    Amount Liquidated in FY 96 
+                   Fixed Rate
+
+  1,952,000 (O)    Amount Liquidated in FY 97 
+                   Fixed Rate
+
+  1,793,000 (O)    Amount Liquidated in FY 98 
+                   Fixed Rate
+  3,159,000 (O)    Amount Liquidated In FY 99 
+                   Provisional G&A Rate
+
+$       000        Carryforward Balance Remaining 
+                   To Be Liquidated
+
+(U)  Denotes Underrecovery
+(O)  Denotes Overrecovery
+
+* The FY 97 estimated carryforward amount liquidated 
+through the FY99 provisional G&A rate will be 
+credited against the FY97 negotiated final total 
+carryforward amount for the purpose of calculating 
+any FY97 remaining unliquidated carryforward balance.
+
+The prior year carryforwards shown in the above table 
+resulted from fiscal years in which GTRI's fixed 
+overhead rates and carryforward amounts were 
+determined in accordance with the requirements of 
+OMB Circular A-21.  The fixed rates and carryforward 
+amounts for FY98 are also being determined in 
+accordance with the requirements of OMB Circular A-21. 
+Effective with FY99, GTRI's recovery of direct and 
+indirect costs (indicated by the rates shown in 
+Section I above) will be governed by the cost 
+principles set forth at FAR Section 31.2.  The 
+expected ratio of Government sponsored activities 
+to non-Government sponsored activities in GTRI's 
+G&A allocation base will be approximately the same 
+as the corresponding ratio in its previous MTDC 
+bases.  Therefore, all remaining prior year
+carryforward amounts that were or will be
+determined in accordance with OMB Circular A-21
+will be liquidated by means of adjustments to GTRI's
+FY99 and future G&A rates.
+
+
+E.  SPECIAL REMARKS: The purpose of this agreement 
+is to establish provisional fringe benefit rates 
+and indirect cost rates for the period 1 July 1998 
+through 30 June 1999.  The establishment of these 
+rates by the Government based on the accounting 
+systems and allocation methodologies in effect at 
+the time this rate agreement is signed does not
+represent an agreement that these systems and 
+methodologies are accepted for fiscal year
+1999, or for any subsequent year's rate 
+negotiation.
+
+
+GEORGIA INSTITUTE OF TECHNOLOGY         FOR THE U.S GOVERNMENT
+GEORGIA TECH APPLIED RESEARCH CORP.
+
+
+J.W. Dees                               Robert E. Austen
+Associate VP for Research               Contracting Officer
+& Director OCA, Assistant Secretary
+
+
+6/4/98                                  6/4/98                                                                                           
+Date                                    Date
+
+
+           For information concerning this document contact:
+                             R. E. Austen
+                       Office of Naval Research
+                        Indirect Costs/ONR 242
+                         800 N. Quincy Street
+                         Arlington, VA  22217
+                       (703) 696-4514

@@ -1,0 +1,152 @@
+CllgDE University of Delaware  516000297  6/29/00  0168
+
+                NEGOTIATION AGREEMENT
+
+Institution:	University of Delaware 
+		Newark, Delaware
+
+The Facilities and Administrative Cost and Fringe Benefits Rates contained herein are
+for use on grants and contracts with all Federal Agencies in accordance with the
+provisions and cost principles mandated by the Office of Management and Budget (OMB)
+Circular A-21.  These rates shall be used for forward pricing and billing purposes
+for the University of Delaware's Fiscal Years 2001 through 2003.  This rate
+agreement supersedes all previous rate agreements/determinations for Fiscal Years
+2001 through 2003.
+
+Section I: Rates - Type: Predetermined (Pred)
+
+FACILITY AND ADMINISTRATIVE COST RATES (Indirect Cost):
+
+					Applicable
+Type	From    To	 Rate	 Base	To                	Location
+Pred	7/1/00  6/30/03	 51.00%	 (a)	Organized Research	On Campus
+
+Pred	7/1/00  6/30/03	 26.60%	 (a)    Organized Research      Off Campus  
+
+Pred	7/1/00  6/30/03	 29.00%	 (a)    Organized Research      On Campus
+                                        College of Agriculture
+
+Pred	7/1/00  6/30/03	 23.30%	 (a)	Organized Research      Off Campus
+                                        College of Agriculture
+							
+Pred	7/1/00  6/30/03	 46.30%	 (a)    Sponsored Instruction	On Campus
+
+Pred	7/1/00  6/30/03	 34.80%	 (a)	Sponsored Instruction   Off Campus 
+
+Pred	7/1/00  6/30/03  40.50%	 (a)	Other Sponsored 	On Campus
+					Activities
+
+Pred	7/1/00  6/30/03  25.00%	 (a)	Other Sponsored         Off Campus
+                                        Activities
+FRINGE BENEFITS RATES:
+
+Pred    7/1/00  6/30/03  27.50%	 (b)    Faculty/Professional 	All
+					Employees
+
+Pred	7/1/00  6/30/03	 35.00%	 (b)	Staff Employees	 	All
+
+Pred	7/1/00  6/30/03	  7.70%	 (b)	Non-Student Wages 	All
+
+DISTRIBUTION BASES:
+
+(a) Modified Total Direct Cost (MTDC), consisting of salaries and wages,
+fringe benefits, materials and supplies, services, travel and subgrants
+and subcontracts up to the first $25,000 of each subgrant or subcontract.
+Equipment (as defined in Section II, paragraph F.2), capital expenditures,
+charges for patient care and tuition remission, rental costs of offsite
+facilities, scholarships, and fellowships as well as the portion of each
+subgrant and subcontract in excess of $25,000 shall be excluded from
+modified total direct costs. Vessel (ship) charges are also excluded.
+
+(b) Salaries and Wages
+
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+A.   LIMITATIONS:  Use of the rates set forth under Section I is subject
+to any statutory or administrative limitations, and is applicable to a
+given grant, contract or other agreement only to the extent that funds
+are available and consistent with any and all limitations of cost clauses
+or provisions, if any, contained therein.  Acceptance of the rates agreed
+to herein is predicated upon all the following conditions: (1) that no
+costs other than those incurred by the grantee/contractor were included in
+the indirect cost pool as finally accepted and that all such costs are
+legal obligations of the grantee/contractor and allowable under governing
+cost principles; (2) that the same costs that have been treated as indirect
+costs are not claimed as direct costs; (3) that similar types of costs have
+been accorded consistent accounting treatment; and (4) that the information
+provided by the contractor/grantee, which was used as the basis for the
+acceptance of the rates agreed to herein and expressly relied upon by the
+Government in negotiating and accepting the said rates, is not subsequently
+found to be materially incomplete or inaccurate.
+
+B.   ACCOUNTING CHANGES: The rates contained in Section I of this agreement
+are based on the accounting system in effect at the time this agreement was
+negotiated, except as noted in paragraph D below. Changes to the method(s)
+of accounting for costs which affects the amount of reimbursement resulting
+from the use of these rates require the written approval of the authorized
+representative of the cognizant negotiating agency.  Such changes include
+but are not limited to changes in the charging of a particular type of cost
+from indirect to direct.  Failure to obtain such approval may result in
+subsequent cost disallowances.
+
+C.   USE BY OTHER FEDERAL AGENCIES: The rates set forth in Section I hereof
+were negotiated in accordance with and under the authority set forth in OMB
+Circular A-21.  Accordingly, such rates shall be applied to the extent
+provided in such circular to grants and contracts to which OMB Circular A-21
+applies, subject to any limitations in paragraph A above.  Copies of this
+document may be provided by either party to other Federal agencies which
+have or intend to issue or award grants and contracts using these rates as a
+means of providing them with early notification of the agreement contained
+herein.
+
+D.   PREDETERMINED RATES: The predetermined rates set forth in Section I of
+this agreement are not subject to adjustment in accordance with the
+provisions of OMB Circular A-21, subject to the limitations contained in
+Part A of this section.
+
+E.   DFARS WAIVER: Signature of this agreement by the authorized
+representative of the University of Delaware and the Government
+acknowledges and affirms the University's request to waive the
+prohibition contained in DFARS 231.303(1) and the Government's
+exercise of its discretion contained in DFARS 231.303(2) to waive the
+prohibition in DFARS 231.303(1).  The waiver request by the University
+of Delaware is made to simplify the University's overall management of
+DOD cost reimbursements under DOD contracts.
+
+F. SPECIAL REMARKS:
+
+	1.  Off Campus Definition - For all activities performed in
+facilities not owned by the institution, the off campus rate will apply.
+(For all activities performed in facilities rented with institution
+funds, the on campus rate will apply). Grants or contracts will not be
+subject to more than one indirect cost rate. If more than 50% of a
+project is performed off campus, the off campus rate will apply to the
+entire project.
+
+	2.  Equipment Definition - Through 30 June 1997, equipment
+means an article of nonexpendable tangible personal property having a
+useful life of more than one year and an acquisition cost of $500 or
+more per unit. Effective 1 July 1997, the acquisition cost of
+equipment, as defined above, is $5,000 or more per unit.
+
+Accepted by:
+
+THE UNIVERSITY OF DELAWARE:		THE U.S. GOVERNMENT:
+
+
+/s/                                     /s/
+DAVID P. ROSELLE			DEBORAH K. RAFI
+President				Contracting Officer
+
+29 June 2000				29 June 2000
+Date			 		Date
+
+
+for information concerning this agreement contact:
+OFFICE OF NAVAL RESEARCH
+DEBORAH K. RAFI
+BCT #1, Room 704
+800 N. QUINCY STREET
+ARLINGTON, VA  22217
+PHONE:  (703) 696-5641
+e-mail: rafid@onr.navy.mil

@@ -1,0 +1,178 @@
+CllgGA Georgia Institue of Technology Gerogia Tech Applied Research Corporation
+582374837 6/30/00 0178
+                                                                                                                                                      
+                PROVISIONAL RATE AGREEMENT 
+ 
+Institution:	GEORGIA INSTITUTE OF TECHNOLOGY
+      		GEORGIA TECH APPLIED RESEARCH CORPORATION
+        	ATLANTA, GEORGIA  30332
+
+The Indirect Cost, Fringe Benefits and Cost of Money Rates contained herein are
+for use on grants, contracts and/or other agreements issued or awarded to the
+Georgia Institute of Technology/Georgia Tech Applied Research Corporation
+(GIT/GTARC) by all Federal Agencies of the United States of America, in
+accordance with the provisions of OMB Circular A-122, the Federal Acquisition
+Regulation (FAR), and the cost principles mandated by FAR Section 31.2.  These
+rates shall be used for forward pricing and billing purposes at GIT/GTARC for
+Fiscal Years (FY) 2001 and (FY) 2002.  This rate agreement supersedes all
+previous rate agreements for FY 2001 and 2002.  
+   	                                       
+FY 2001
+
+TYPE   POOL	   FROM    TO	     RATE     BASE   ACTIVITY        LOCATION
+
+Prov   Lab OH	   7/1/00  6/30/01   69.62%   (a)    All Activities  GTRI*
+       (Atlanta)     
+
+Prov   Lab OH	   7/1/00  6/30/01   64.41%   (a)    All Activities  GTRI
+       (Arlington)     
+
+Prov   Lab OH	   7/1/00  6/30/01   38.44%   (a)    All Activities  GTRI
+      (Huntsville)     
+
+Prov   Field Sites 7/1/00  6/30/01   47.31%   (a)    All Activities  GTRI
+
+Prov   Fringe      7/1/00  6/30/01   25.80%   (b)    All Activities  GTRI
+       (Full)
+
+Prov   Fringe      7/1/00  6/30/01    1.80%   (c)    All Activities  GTRI
+       (Partial)
+
+Prov   G&A         7/1/00  6/30/01   16.00%   (d)    All Activities  GTRI
+
+* Georgia Tech Research Institute
+
+TYPE   POOL	        FROM    TO	  RATE     BASE   ACTIVITY          LOCATION
+
+Prov   Cost of Money  	7/1/00  6/30/01   2.630%   (a)    All Activities    GTRI
+       (Atlanta Labs)
+
+Prov   Cost of Money  	7/1/00  6/30/01    .586%   (a)    All Activities    GTRI
+       (Arlington Lab)
+
+Prov   Cost of Money  	7/1/00  6/30/01    .781%   (a)    All Activities    GTRI
+       (Huntsville Lab)
+
+FY 2002
+
+Prov	Lab OH		7/1/01  6/30/02   68.21%   (a)	  All Activities    GTRI
+        (Atlanta)     
+
+Prov    Lab OH		7/1/01  6/30/02   62.95%   (a)    All Activities    GTRI
+        (Arlington)     
+
+Prov    Lab OH		7/1/01  6/30/02   37.75%   (a)    All Activities    GTRI
+        (Huntsville)     
+
+Prov    Field Sites	7/1/01  6/30/02   46.31%   (a)    All Activities    GTRI
+
+
+Prov    Lab OH		7/1/01  6/30/02   20.77%   (a)    All Activities    GTRI	
+	(Western Act.)	
+
+Prov    G&A		7/1/01  6/30/02	  15.30%   (d)	  All Activities    GTRI
+
+Prov    Cost of Money  	7/1/01  6/30/02   2.553%   (a)    All Activities    GTRI
+        (Atlanta Labs)
+
+Prov    Cost of Money  	7/1/01  6/30/02    .569%   (a)    All Activities    GTRI
+        (Arlington Lab)
+
+Prov   Cost of Money  	7/1/01  6/30/02    .758%   (a)    All Activities    GTRI
+       (Huntsville Lab)
+
+                          DISTRIBUTION BASE
+          
+(a)   Total labor cost consisting of direct labor dollars plus compensated absences
+allowance,  plus fringe benefits.
+
+(b)   Salaries and wages of (I) regular full-time faculty, (ii) principal
+investigators, (iii) professional and administrative staff, (iv) joint
+staff, (v) temporary academic or research professionals participating in
+Institute retirement programs and group health and life insurance, (vi)
+bi-weekly permanent employees and (vii) part-time employees who work 50
+percent but less than 100 percent of a full-time work schedule.
+
+(c)   Salaries and wages of employees who participate in all or part of
+the social security program but do not participate in retirement or group
+health and life insurance plans.  This rate covers (I) temporary classified
+persons, (ii) temporary academic or research professionals not eligible
+for the retirement programs or group health or life insurance coverage,
+(iii) student employees who are registered for less than a full academic
+load and (iv) part-time employees employed for less than 50 percent of a
+full work schedule.
+
+(d)   Total cost input, consisting of labor cost, laboratory overhead,
+materials, other operating expense, equipment, travel and subcontract
+costs.
+                                                                                                                                                    
+SECTION II - GENERAL                                                    
+                                                                                                                                                       
+A.    LIMITATIONS:  Use of the rates set forth under Section I is subject
+to any statutory or administrative limitations and is applicable to a
+given grant or contract only to the extent that funds are available.
+Acceptance of the rates agreed to herein is predicated upon all of the
+following conditions: (1) that no costs other than those incurred by the
+grantee/contractor were included in the above indirect cost pools as
+finally accepted and that such costs are legal obligations of the grantee/
+contractor and allowable under governing cost principles, (2) that the
+same costs that have been treated as indirect costs are not claimed as
+direct costs, (3) that similar types of costs have been accorded consistent
+accounting treatment, and (4) that the information provided by the grantee/
+contractor which was used as a basis for acceptance of the rates agreed to
+herein, and expressly relied upon by the Government in negotiating and
+accepting the said rates is not subsequently found to be materially
+incomplete or inaccurate.          
+
+B.  ACCOUNTING CHANGES:  The rates contained in Section I of this agreement
+are based on the accounting system in effect at the time the agreement was
+negotiated.  Changes to the method(s) of accounting for costs which affect
+the amount of reimbursement resulting from the use of these rates require
+the prior approval of the authorized representative of the cognizant
+negotiation agency.  Such changes include but are not limited to changes in
+the charging of a particular type of cost from indirect to direct.  Failure
+to obtain such approval may result in subsequent cost disallowances.
+
+C.  USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section I were
+negotiated in accordance with and under the authority set forth in OMB
+Circular A-122 and the FAR. Accordingly, such rates shall be applied to
+the extent provided in OMB Circular A-122 and the FAR to grants and
+contracts to which OMB Circular A-122 and the FAR apply, subject to any
+limitations in part A of this section.  Copies of this document may be
+provided by either party to other federal agencies which have or intend
+to issue or award sponsored agreements using these rates or to otherwise
+provide such agencies with documentary notice of this agreement and its
+terms and conditions.
+
+D.  SPECIAL REMARKS: The purpose of this agreement is to establish
+provisional indirect cost, fringe benefits and cost of money rates for
+the period 1 July 2000 through 30 June 2002.  The establishment of these
+rates by the Government based on the accounting systems and allocation
+methodologies in effect at the time this rate agreement is signed does
+not represent an agreement that these systems and methodologies are
+accepted for Fiscal Year 2000/2002, or for any subsequent year's rate
+negotiation.
+
+
+GEORGIA INSTITUTE OF TECHNOLOGY		FOR THE GOVERNMENT
+GEORGIA TECH APPLIED RESEARCH CORP.
+
+
+/S/                                     /S/                     			                                                   
+JILDA DIEHL GARTON			MICHAEL KUC
+Associate Vice Provost for Research	Contracting Officer
+and General Manager, GTRC/GTARC
+
+
+6/30/00                                 6/30/00                      	                                                                        
+Date					Date
+
+
+
+For information concerning this document contact:
+	Michael Kuc
+	Office of Naval Research
+	Indirect Costs/ONR 242
+	800 N. Quincy Street
+	Arlington, VA  22217
+	(703) 696-2571

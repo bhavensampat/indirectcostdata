@@ -1,0 +1,229 @@
+NprfDC Smithsonian Institution 530206027 3/25/99 0153
+
+                 NEGOTIATION AGREEMENT
+
+INSTITUTION:   SMITHSONIAN INSTITUTION
+               959 L'ENFANT PLAZA, SW, SUITE 7400
+               WASHINGTON, D.C. 20560
+
+The indirect cost and fringe benefits rates contained herein are for use on all grants
+and/or contracts issued in accordance with the provisions and cost principles
+mandated by the Office of Management and Budget (OMB) Circular A-122.  These rates
+shall be used for forward pricing and billing purposes for the effective periods
+indicated in Section I below.  This rate agreement supersedes all previous rate
+agreements/determinations for FY 1999.
+
+SECTION I:  RATES: FIXED WITH CARRY-FORWARD PROVISIONS ("FIXED")
+
+A.   INDIRECT COST RATES:
+
+Type   From     To         Account    Rate     Base   Location       Applicable To
+
+Fixed  10/1/98  9/30/99    G&A         4.1%    (a)    *SI  Onsite    All programs
+
+Fixed  10/1/99  9/30/00    G&A         4.2%    (a)     SI  Onsite    All programs
+
+Fixed  10/1/98  9/30/99    Contracts  25.8%    (b)     SI   Onsite   All programs
+                           & Grants
+                           Overhead
+
+Fixed  10/1/99  9/30/00    Contracts  25.0%    (b)     SI   Onsite   All programs
+                           & Grants
+                           Overhead
+
+Fixed  10/1/98  9/30/99    Indirect   35.0%    (c)   **SI    NSRC    All programs
+                           Core
+                           Support
+                           Costs
+
+Fixed  10/1/99  9/30/00    Indirect   35.0%    (c)     SI    NSRC    All programs
+                           Core
+                           Support
+                           Costs
+
+*  Smithsonian Institution
+**  Smithsonian Institution - National Science Resource Center
+
+Type  From      To         Account    Rate     Base  Location         Applicable To
+
+Fixed  10/1/98  9/30/99    G&A        14.8%    (d)   *** SAO Onsite   All programs
+
+Fixed  10/1/98  9/30/99    Direct     25.4%    (b)   SAO Onsite       All programs
+                           Operating
+                           Overhead
+
+Fixed  10/1/98  9/30/99    Material    4.5%    (e)   SAO Onsite       All programs
+                           Overhead
+
+Fixed  10/1/98  9/30/99    Central    24.0%    (f)   SAO Onsite       All programs
+                           Engineering
+                           Overhead
+
+B.   FRINGE BENEFITS RATES:
+
+Type   From     To         Account    Rate      Base  Location        Applicable To
+
+Fixed  10/1/98  9/30/99    Leave      15.7%     (g)   SAO Onsite      All programs
+
+Fixed  10/1/98  9/30/99    Fringe     26.7%     (h)   SI/SAO Onsite   All programs
+                           Benefits
+
+Fixed  10/1/99  9/30/00    Fringe     26.1%     (h)   SI/SAO Onsite   All programs
+                           Benefits
+
+Fixed  10/1/98  9/30/99    Fringe      8.1%     (I)   SI/SAO Onsite   All programs
+                           Benefits
+                           Part Time
+                           Labor
+
+
+Fixed  10/1/99  9/30/00    Fringe      8.1%     (I)   SI/SAO Onsite   All programs
+                           Benefits
+                           Part Time
+                           Labor
+
+***  Smithsonian Astrophysical Observatory
+
+
+                        DISTRIBUTION BASES:
+
+The following bases are applicable to the above cited rates:
+
+     (a)  The base is total cost input consisting of total costs of direct operating
+          activities including grants and contracts, materials, subcontracts,
+          equipment and applicable overhead.
+
+     (b)  Direct labor and benefits costs.
+
+     (c)  Total Direct Costs.
+
+     (d)  The base consists of total costs of direct operating activities (including
+          grants and contracts) net use of costs associated with materials,
+          subcontracts and equipment.  In addition, the base includes Central
+          Engineering costs and an applicable share of over head costs.
+
+     (e)  Cost of materials, equipment and subcontracts.
+
+     (f)  Central Engineering direct labor and benefits costs.
+
+     (g)  Total productive labor costs.
+
+     (h)  Total full time labor costs.
+
+     (I)       Total part time labor costs.
+
+
+SECTION II: LIMITATIONS
+
+A. LIMITATIONS:  Use of the rates set forth under Section I of this agreement is
+expressly subject to any statutory or administrative limitations and is
+applicable to a given grant, contract, or other agreement only to the extent
+that funds are available and consistent with any and all limitations of cost
+clauses or provisions, if any, contained therein.  Acceptance of any or all of
+the rates agreed to herein is predicated upon all the following conditions: (1)
+that no costs other than those incurred by the grantee/contractor were
+included in its indirect cost pool as finally accepted and that all such costs
+are legal obligations of the grantee/contractor and allowable under the
+governing and applicable cost principles; (2) that the same costs that have
+been treated as indirect costs are not claimed as direct costs; (3) that
+similar types of costs have been accorded consistent accounting treatment;
+and (4) that the information provided by the contractor/grantee, which was
+used as the basis for the acceptance of the rate(s) agreed to herein and
+expressly relied upon by the Government in accepting the said rates, is not
+subsequently found to be materially incomplete or inaccurate.
+
+B. ACCOUNTING CHANGES: The fixed rates contained in Section I of this
+agreement are based on the accounting system in effect at the time this
+agreement was issued.  Changes to the method(s) of accounting for costs
+which affects the amount of reimbursement resulting from the use of these
+rates requires the express and written approval of the authorized
+representative of the cognizant negotiating agency for the Government
+prior to implementation of any such changes.  Such changes include but
+are not limited to changes in the charging of a particular type of
+cost from indirect to direct.  Failure on the part of the grantee/
+contractor to obtain the required approval may result in subsequent
+cost disallowances.
+
+C.  FIXED RATES WITH CARRY-FORWARD PROVISIONS: The fixed rates contained
+in this agreement are based on estimates of the costs for FY 1999 and
+FY 2000.  When actual costs for FY 1999 are determined, over or under
+recoveries may be included as an adjustment to the next rate negotiation
+to recover the difference between the FY 1999 estimated costs used to
+establish the fixed rates and the negotiated FY 1999 actual costs.
+When actual costs for FY 2000 are determined, over or under recoveries
+may be included as an adjustment to the next rate negotiation to recover
+the difference between the FY 2000 estimated costs used to establish the
+fixed rates and the negotiated FY 2000 actual costs.
+
+D.  CARRY-FORWARD AMOUNTS: The fixed rates set forth in Section I of
+this agreement are inclusive of carry-forward amounts as follows:
+
+	Rate
+
+SI Contract  & Grant Overhead		1996	$    4,328	$  4,328
+					1997	$  135,895	$135,895
+
+SI Material Overhead*			1996	  $177,852
+ *Liquidated in SI G&A
+
+SI G&A					1996	$    20,496
+					1997	$(1,274,630)	$(1,000,000)
+
+SI NSRC					1997	$    (7,510)	$(7.510)
+
+SAO Engineering Center Overhead		1997	$     39,937
+
+SAO Material Burden			1997	$   (164,144)
+
+SAO Direct Operating Overhead		1997	$    445,597
+
+SAO G&A					1997	$  (169,270)
+
+SAO Leave				1997	$   (25,537)
+
+SI/SAO Fringe Benefits			1996	$  (300,314)
+					1997	$		$(821,158)
+
+
+SI/SAO Fringe Benefits - Part Time	1997	$    15,660	$ 15,660
+
+
+E. USE BY OTHER FEDERAL AGENCIES:   The rates set forth in SECTION I hereof
+were negotiated in accordance with and under the authority set forth in OMB
+Circular A-122. Accordingly, such rates shall be applied, to the extent
+provided in such circular, to grants and contracts to which OMB Circular
+A-122 is applicable, subject to any limitations in part A of this section.
+Copies of this document may be provided by either party to other Federal
+agencies which have or intend to issue or award grants and/or contracts to
+the Smithsonian Institution to use the stated rates or to otherwise provide
+such agencies with documentary notice of this agreement and its terms and
+conditions.
+
+F.  SPECIAL REMARKS:  The Government's agreement with these rates is not
+an acceptance of the institution's accounting systems, cost classifications,
+allocation methodologies, and the reasonableness of any specific proposed
+costs.
+
+
+ACCEPTED:
+
+FOR THE INSTITUTION:                         FOR THE GOVERNMENT:
+
+
+/s/                                          /s/
+Rick Johnson                                 Deborah K. Rafi
+Chief Financial Officer                      Contracting Officer
+
+
+March 25, 1999                               March 25, 1999
+Date                                         Date
+
+
+FOR INFORMATION CONCERNING THIS AGREEMENT CONTACT:
+
+OFFICE OF NAVAL RESEARCH                (703) 696-5641
+DEBORAH K. RAFI                         E-mail: rafid@onr.navy.mil
+INDIRECT COST DIVISION/ONR 242
+BALLSTON TOWER #1 RM 704
+800 N. QUINCY STREET
+ARLINGTON, VA 22217

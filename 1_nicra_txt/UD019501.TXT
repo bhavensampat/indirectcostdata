@@ -1,0 +1,122 @@
+CllgMA  Massachusetts Institute of Technology 42103594 1/26/01 0195
+
+                NEGOTIATION AGREEMENT
+
+Institution:    MASSACHUSETTS INSTITUTE OF TECHNOLOGY	
+                CAMBRIDGE, MASSACHUSETTS, 02139
+
+The Employee Benefits and Leave rates contained herein are for use on grants, contracts
+and/or other agreements issued or awarded to the Massachusetts Institute of Technology
+(MIT) by all Federal Agencies of the United States of America, in accordance with the
+provisions and cost principles mandated by Office of Management and Budget (OMB)
+Circular A-21.  These rates shall be used for forward pricing and billing purposes for
+MIT's Fiscal Year 2001. This rate agreement supersedes all previous rate agreements/
+determinations for FY 2001.  
+
+SECTION I: RATES - TYPE: FIXED WITH CARRYFORWARD (AFIXED@) 
+
+TYPE	FROM    TO          RATE       BASE    APPLICABLE TO        LOCATION
+
+Employee Benefits Rates:
+
+FIXED	7/1/00	6/30/01	    21.0%      (a)     All Non-Student      On Campus
+                                               Employees
+
+FIXED   7/1/00	6/30/01	    20.0%      (b)     All Non-Student      Off Campus
+                                               Employees
+Vacation Leave Rates:	
+
+FIXED   7/1/00	6/30/01	    10.0%      (c)     Research Employees   On Campus
+
+FIXED	7/1/00	6/30/01	     9.0%      (d)     Research Employees   Off Campus
+
+                          Distribution Bases
+
+(a)  The MIT On-campus salary base consists of salaries and wages of all non-student
+     MIT employees charged to MIT general (non-research) accounts and MIT Research
+     On-campus accounts. 
+
+(b)  The MIT Off-campus salary base consists of salaries and wages of all non-student
+     MIT employees charged to MIT Research Off-campus accounts and Lincoln Laboratory. 
+
+(c)  The MIT Vacation Leave On campus base consists of salaries and wages of all
+     non-student, non-faculty MIT research personnel (Research Staff, Hourly
+     Personnel, Project Support Staff, and Tech/Admin Support) charged to MIT
+     Research On-campus accounts. 
+
+(d)  The MIT Vacation Leave Off campus salary base consists of salaries and wages of all
+     non-student, non-faculty MIT research personnel (Research Staff, Hourly Personnel,
+     Project Support Staff, and Tech/Admin Support) charged to MIT Research Off-campus
+     accounts and Lincoln Laboratory. 
+
+
+SECTION II - GENERAL                                                    
+
+A.  LIMITATIONS:  Use of the rates set forth under Section I is subject to any statutory
+or administrative limitations and is applicable to a given grant or contract only to the
+extent that funds are available.  Acceptance of the rates agreed to herein is predicated
+upon all of the following conditions: (1) that no costs other than those incurred by the
+grantee/contractor were included in this indirect cost pool as finally accepted and that
+such costs are legal obligations of the grantee/contractor and allowable under governing
+cost principles, (2) that the same costs that have been treated as indirect costs are
+not claimed as direct costs, (3) that similar types of costs have been accorded
+consistent accounting treatment, and (4) that the information provided by the grantee/
+contractor which was used as a basis for acceptance of the rates agreed to herein, and
+expressly relied upon by the Government in negotiating and accepting the said rates is
+not subsequently found to be materially incomplete or inaccurate.          
+
+B.  ACCOUNTING CHANGES: The fixed rates contained in Section I of this agreement are
+based on the accounting system in effect at the time the agreement was negotiated.
+Changes to the method(s) of accounting for costs, which affect the amount of
+reimbursement resulting from the use of these rates, require the prior approval of
+the authorized representative of the cognizant negotiation agency.  Such changes
+include but are not limited to changes in the charging of a particular type of cost
+from indirect to direct.  Failure to obtain such approval may result in subsequent
+cost disallowances. 
+
+C.  USE BY OTHER FEDERAL AGENCIES: The rates set forth in Section I were negotiated
+in accordance with and under the authority contained in OMB Circular A-21.
+Accordingly, such rates shall be applied to the extent provided in such Circular to
+grants and contracts to which OMB Circular A-21 applies, subject to any limitations
+in part A of this section.  Copies of this document may be provided by either party
+to other federal agencies which have or intend to issue or award sponsored
+agreements using these rates or to otherwise provide such agencies with
+documentary notice of this agreement and its terms and conditions.
+
+D.  FIXED RATES: The fixed rates in this agreement are based on estimates of the
+costs for FY 2001.  When actual costs for the period is determined, an adjustment
+will be made to the rates of a future year to recognize the difference between the
+FY 2001 estimated costs used to establish the fixed rates and the negotiated actual
+FY 2001 costs.
+
+F.  SPECIAL REMARKS: 
+
+    1.  Off Campus rates are used when the preponderance of effort is performed at
+Lincoln Laboratory, Haystack Observatory or other off-site locations.
+
+    2. The establishment of these rates by the Government does not represent an
+agreement with accounting systems and methodologies. 
+
+Accepted:	
+
+FOR MASSACHUSETTS INSTITUTE			FOR THE U.S. GOVERNMENT:
+OF TECHNOLOGY:
+
+
+/s/                                             /s/
+JULIE T. NORRIS					DEBORAH K. RAFI
+Director, Office Of Sponsored Programs		Contracting Officer
+
+26 January 2001               			26 January, 2001
+Date						Date
+
+
+For information concerning this document contact:
+	Deborah K. Rafi
+	Office of Naval Research
+	Indirect Costs/ONR 242
+	800 N. Quincy Street
+	Arlington, VA  22217
+	(703) 696-5641
+    E-mail: rafid@onr.navy.mil
+ 

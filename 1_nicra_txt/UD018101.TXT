@@ -1,0 +1,216 @@
+CllgPA Carnegie Mellon University 250969449  8/9/00  0181
+
+                 NEGOTIATION AGREEMENT
+
+INSTITUTION:  Carnegie Mellon University
+              Pittsburgh, PA 15213-3890
+
+The Facilities and Administrative (F&A) and Fringe Benefit rates contained herein are
+for use on grants and contracts with all Federal agencies in accordance with the cost
+principles mandated by the Office of Management and Budget (OMB) Circular A-21.
+These rates shall be used for forward pricing and billing purposes for Carnegie Mellon
+University's  Fiscal Year 2001.  This rate agreement supersedes all previous rate
+agreements or determinations for Fiscal Year 2001.
+
+SECTION I: Rates - Type: Fixed With Carryforward ("Fixed"); Predetermined ("Pred")
+                                  
+                                Facilities & Administrative (F&A) Rates
+
+Type    Effective Period      Rate      Base   Location  Applicable To
+        From       To
+
+Fixed   7/1/00     6/30/01    47.85%    (a)    On-Campus   All Programs (1)
+                                        
+Fixed   7/1/00     6/30/01    47.85%    (a)    On-Campus   All Programs (2)
+
+Fixed   7/1/00     6/30/01    25.60%    (a)    Off-Campus  REC * (1)
+
+Fixed   7/1/00     6/30/01    25.60%    (a)    Off-Campus  REC * (2)
+
+Fixed   7/1/00     6/30/01    21.90%    (a)    Off-Campus  Non-REC * (1)
+
+Fixed   7/1/00     6/30/01    21.90%    (a)    Off-Campus  Non-REC *    (2)
+
+Fixed   7/1/00     6/30/01     6.25%    (a)    SEI         All Programs  (1)
+
+Fixed   7/1/00     6/30/01     6.25%    (a)    SEI         All Programs  (2)
+
+* REC - Robotics Engineering Consortium
+
+Fringe Benefit Rates
+
+Type    Effective Period      Rate      Base   Location    Applicable To
+        From       To
+
+Fixed   7/1/00     6/30/01    24.80%    (b)    All         Full Time Faculty & Staff 
+                                                              
+
+Pred    7/1/00     6/30/01    18.50%    (c)    All         Part Time Employees
+                                                                                                           Receiving Benefits 
+
+Pred    7/1/00     6/30/01    10.00%    (d)    All         Part Time Employees       
+                                                                                                           Not Receiving Benefits
+
+                                    Distribution Base
+
+(a)  Modified Total Direct Costs consisting of salaries and wages, fringe benefits,    
+materials and supplies, services, travel, and subgrants and subcontracts up to the first
+$25,000 of each subgrant or subcontract (regardless of the period covered by the
+subgrant or subcontract).  Equipment, capital expenditures, 50% of graduate student
+compensation regarded as tuition remission, rental costs, scholarships and fellowships,
+as well as the portion of each subgrant and subcontract in excess of $25,000 shall be
+excluded from modified total direct costs.
+
+(b) Total full time faculty, staff and union salaries and wages.
+
+(c)  Total part time salaries and wages with benefits.  Applies to employees who              
+work at least 17.5 hours per week, in an appointment of four months or longer.
+
+(d)  Total part time salaries and wages with mandated benefits.  Applies to employees
+who work less than 17.5 hours per week, or in an appointment of less than four months.
+                                      
+                                    Applicable To
+
+(1)  Applies to all DoD contracts awarded or issued on or after November 30, 1993 in
+           accordance with and under the authority of DFARS 231.303(1).  See Section II,
+           Part E hereof.  (Uncapped Rate)
+
+(2)      Applies to all DoD contracts and subcontracts awarded or issued before
+          November 30, 1993, all Non-DoD instruments, and all DoD grants.  See 
+          Section II, Part E hereof.  (Capped Rate)
+ 
+SECTION II: GENERAL
+
+A.  LIMITATIONS: Use of the rates contained in this Agreement is subject to any
+statutory or administrative limitations and is applicable  to a given grant or contract
+only to the extent that funds are available.   Acceptance of the rates agreed to herein
+is predicated upon  the following conditions:  (1) that no costs other than those
+incurred by the grantee/contractor were included in this indirect cost pool as finally
+accepted and that such costs are legal obligations of the grantee/contractor and
+allowable under governing cost principles: (2) that the same costs that have been
+treated as indirect costs are not claimed as direct costs; (3) that similar types of
+costs have been accorded consistent accounting treatment; and (4) that the information
+provided by the grantee/contractor which was used  as a basis for acceptance of the
+rates agreed to herein is not subsequently found to be materially incomplete or
+inaccurate.
+
+B.  ACCOUNTING CHANGES:  The rates contained in this Agreement are based on
+the accounting system in effect at the time the agreement was negotiated.  Changes to
+the method of accounting for costs which affect the amount of reimbursement resulting
+from the use of these rates require the prior approval of the authorized representative
+of the cognizant negotiation agency.  Such changes include, but are not limited to
+changes in the charging of a particular type of cost from indirect to direct.  Failure 
+to obtain such approval may result in subsequent cost disallowances.
+
+C.  FIXED RATES:  Each fixed rate in this agreement is based on an estimate of the
+costs for the period covered by the rate.  When actual costs for this period are
+determined, an adjustment may be made to a rate of a future year to recognize the
+difference between the estimated costs used to establish the fixed rate and the
+negotiated actual costs.
+
+D.  PREDETERMINED RATES:  The predetermined rates contained in this agreement
+are not subject to adjustment in accordance with the provisions of OMB Circular A-21,
+subject to the limitations contained in Part A of this Section.
+
+E.  USE BY OTHER FEDERAL AGENCIES:  The rates contained herein were
+negotiated in accordance with the authority set forth in OMB Circular A-21, and should
+be applied to grants and contracts to which OMB Circular A-21 applies,  subject to any
+limitations in paragraph A. above.  Copies of this document may be provided by the
+Institution to other Federal Agencies having grants and contracts using these rates as a
+means of providing them with early notification of the agreement contained herein.
+
+F.  APPLICATION OF INDIRECT COST RATES TO DOD CONTRACTS/SUBCONTRACTS
+In accordance with DFARS 231.303, no limitation (unless waived by the institution) may
+be placed on the reimbursement of otherwise allowable indirect costs incurred by an
+institution of higher education under a DoD contract awarded on or after 
+November 30, 1993, unless the same limitation is applied uniformly to all other 
+organizations performing similar work.  It has been determined by the Department of
+Defense that such limitation is not being uniformly applied.  Accordingly, the rates
+cited (1) of Section I, as explained under title "APPLICABLE TO" (1), do not reflect
+the  application of the 26% limitation on administrative indirect costs imposed by
+OMB A-21, whereas (2) does so.
+
+
+G.   LIQUIDATION OF PRIOR YEAR CARRYFORWARD (CFW) AMOUNTS
+
+1.   F&A Rates:  The F&A rates set forth herein include adjustments for the following  
+finalized FY 1986-1996 carryforward amounts and the estimated  FY 1997 carryforward
+amounts:
+                                                        Used in        To be
+                        Fiscal Year  Total CFW        FY 2001          Liquidated
+a. On Campus:        
+                        1986-1996    $  210,785 (O)   $  210,785 (O)   $ 0
+
+                          1997       $3,879,000 (O)   $1,939,500 (O)   $1,939,500 (O)
+
+b. Off Campus:          1986-1996    $   73,940 (O)   $   36,970 (O)   $   36,970 (O)
+
+c. Off Campus REC:      1986-1996    $  166,904 (O)   $   83,452 (O)   $   83,452 (O) 
+
+
+d.  SEI                 1986-1996    $2,314,075 (O)   $  462,815 (O)   $1,851,260 (O)
+
+(O) Denotes Over-Recovery
+
+2.   Fringe Benefit Rates:   The university had a Fringe Benefit estimated over-
+recovery of $ 519,000 in FY 1999.  The FY 2001 Full Time rate of 24.80% set forth
+herein includes an adjustment for the estimated  $ 519,000 over-recovery carryforward
+amount.      
+
+H.   QUALIFICATIONS; 
+
+1.  The purpose of this agreement is to establish fixed F&A cost rates and 
+fixed/predetermined Fringe Benefit rates for the period 1 July 2000 through 30 June
+2001.  Rates established in Section I above are based on Carnegie Mellon University's
+proposal dated 31 January 2000.  The establishment of these rates by the Government,
+based on the accounting systems and allocation methodologies contained in this
+proposal, does not represent an agreement that these systems and methodologies are
+accepted for FY 2001, or for any subsequent fiscal year's rate negotiation.  The
+recommendations of the Defense Contract Audit Agency, Pennsylvania Branch in Audit
+Report No. 6701-2000G2300001 were considered during the negotiation of these rates. 
+     
+2.  Carnegie Mellon is not making any concession or admission about the
+classification or allocation of certain costs,  nor is it agreeing to a similar
+treatment of these costs in the future. Specifically, this clause addresses the
+issue of classroom space and sponsored projects administration (SPA) costs.
+Because the parties could not agree on these issues, Carnegie Mellon reserves
+the right to continue to pursue the classification of classroom space and
+allocation of the SPA costs. 
+
+For Carnegie Mellon University                For the Government
+
+
+/S/                                           /S/
+Signature                                     Signature
+Jeffrey W. Bolton                             Michael Kuc                                  
+Name                                          Name
+
+VP for Business and Planning,
+and Chief Financial Officer                   Contracting Officer                    
+Title                                         Title
+
+8/8/00                                        8/9/00
+Date                                          Date
+ 
+For information concerning this agreement contact:
+Office of Naval Research
+Michael Kuc
+Indirect Cost Division/ONR 242
+800 N. Quincy Street,  Tower #1, Room 704
+Arlington, VA 22217
+(703) 696-2571
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

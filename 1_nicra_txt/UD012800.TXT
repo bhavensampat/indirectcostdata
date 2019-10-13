@@ -1,0 +1,164 @@
+CllgIL University of Illinois at Urbana Champaign 37600511  10/12/99  0128
+
+               NEGOTIATION AGREEMENT
+
+INSTITUTION: UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN
+             CHAMPAIGN, ILLINOIS 61820-6242
+
+The Fringe Benefit rates contained herein are for use on grants, contracts, and/or other
+agreements issued or awarded to the University of Illinois at Urbana-Champaign (UIUC) by
+all Federal Agencies of the United States of America in accordance with the provisions
+and cost principles mandated by Office of Management and Budget (OMB) Circular A-21.
+These rates shall be used for forward pricing and billing purposes at UIUC for Fiscal
+Year 2000.  This Fringe Benefit rate agreement supersedes all previous fringe benefit
+rate agreements/determinations for UIUC's FY 2000.
+
+SECTION I: RATES - TYPE:    FIXED WITH CARRYFORWARD ("FIXED")
+                                                                                                
+TYPE    FROM     TO        RATE     BASE   BENEFIT
+
+Fixed   7/01/99  6/30/00   9.63%    (a)    Retirement 
+
+Fixed   7/01/99  6/30/00   9.66%    (b)    Health, Life and Dental
+                                           Insurance  (HLD) 
+
+Fixed   7/01/99  6/30/00   1.29%    (b)    Termination Pay 
+
+Fixed   7/01/99  6/30/00    .01%    (c)    Workers' Compensation 
+                                            
+Fixed   7/01/99  6/30/00   1.45%    (d)    Medicare 
+
+Fixed   7/01/99  6/30/00   6.20%    (e)    Old Age Survivors and Disability
+                                           Insurance  (OASDI)
+ 
+                    DISTRIBUTION BASE
+
+     (a) Salaries and wages of State University Retirement System (SURS) employees.
+
+     (b)  Salaries and wages of eligible employees (employees with appointments
+          greater than or equal to 50% time for at least nine months).
+
+     (c)  Salaries and wages of all employees.
+
+     (d)  Salaries and wages of non-student employees hired after 1 April 1986.
+
+     (e)  First $72,600 of salaries and wages of all non-student employees not
+          participating in SURS.
+
+SECTION II: GENERAL TERMS AND CONDITIONS
+
+A.  LIMITATION: Use of the rates set forth in Section I is  subject to any
+statutory or administrative limitations and is applicable to a given grant,
+contract, or other agreement only to the extent that funds are available and
+consistent with any and all limitations of cost clauses or provisions, if any,
+contained therein.   Acceptance of any or all of the rates agreed to herein is
+predicated upon all the following conditions: (1) that no costs other than
+those incurred by the contractor/grantee were included in its indirect cost
+pool as finally accepted and that all such costs are legal obligations of
+the contractor/grantee and allowable under governing cost principles; (2)
+that the same costs that have been treated as indirect costs are not claimed
+as direct costs; (3) that similar types of costs have been accorded
+consistent accounting treatment; and (4) the information provided by the
+contractor/grantee,  which was used as the basis for acceptance
+of the rates agreed to herein and expressly relied upon by the
+Government in negotiating the said rates, is not subsequently found to
+be materially incomplete or inaccurate.
+
+B  ACCOUNTING CHANGES: The rates contained in Section I of this agreement
+are based on the accounting system in effect at the time this agreement
+was negotiated.  Changes to the method(s) of accounting for costs, which
+affect the amount of reimbursement resulting from the use of these rates,
+ require the written approval of the authorized representative of the
+cognizant negotiating agency for the Government prior to implementation
+of any such changes.  Such changes include, but are not limited to,
+changes in the charging of a particular type of cost from indirect to
+direct.  Failure to obtain such approval may result in a  subsequent
+cost disallowance.
+
+C.  FIXED RATES AND CARRYFORWARD PROVISIONS:
+
+1.   This type of rate is considered final and not subject to
+adjustment in accordance with the provisions of OMB circular
+A-21 and the Federal Acquisition Regulation, subject to the
+limitations contained in Part A of this section, except that the
+difference between the estimated costs and the actual costs of the
+period covered by the rate is carried forward as an adjustment to
+the rate computation of a subsequent period as discussed below.
+
+2.  The rates contained  in this agreement are based on estimates
+of the costs for FY 2000.  When actual costs for this period are
+determined, adjustments will be applied to the FY 2001 negotiated
+fixed rates to recognize the difference between the estimated
+FY 2000 costs used to establish the fixed rates and the negotiated
+actual FY 2000 costs.
+
+3.   The Fringe Benefit rates set forth herein include the
+following estimated FY 1999 carryforward amounts:
+
+Fringe Benefit        FY 99 Carry-    Amount Liquidated       Balance To Be
+Description           Forward         In FY 2000 Rate         Liquidated
+
+Retirement            $     00        $   00                  $         00
+
+Health, Life &
+Dental Ins.           $244,678 (O)    $244,678 (O)            $         00
+
+Termination Pay       $919,888 (O)    $919,888 (O)            $         00
+
+Worker's Comp.        $773,939 (*)       N/A                     N/A
+
+Medicare              $     00        $   00                  $         00
+
+Old Age Survivor
+& Disability Ins.     $     00        $    00                 $         00
+
+(O) Denotes Over-recovery
+
+(*)   The University of Illinois at Urbana-Champaign has established a self-insurance
+trust fund for the purpose of paying workers' compensation claims for employees paid
+from sponsored accounts.  It is understood and agreed that the university shall have
+no right of recapture of the reserves in the self-insurance trust fund.  In the event
+that the university terminates the self-insurance trust fund and purchases workers'
+compensation insurance, any unencumbered reserves in the self-insurance trust fund
+shall be used to pay the workers' compensation insurance premiums until such reserves
+have been exhausted.
+
+As of 7/1/99 the self-insurance trust fund had a reserve balance of $773,939.  The
+reserve balance is defined as the account balance less discounted liabilities
+associated with claims currently being paid.  The $773,939  reserve balance is
+expected to be reduced by approximately $32,793 in  FY 2000, calculated as follows:
+the sum of the actuarial funding recommendation at the mean confidence level, plus
+administrative expense, less projected interest income, less income generated by
+the nominal .01% rate assessment against the salary and wage base.  The university
+believes that a minimum reserve balance of $500,000 is necessary in order to pay
+routine workers' compensation claims plus such extraordinary claims as a death,
+or two- three serious injuries in any given year. It is agreed that the university
+will not increase the .01% rate unless the year-end reserve balance in the
+self-insurance trust fund falls below $500,000.
+
+D.  USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section I hereof  were
+negotiated in accordance with and under the authority set forth in OMB Circular A-21. 
+Accordingly, such rates shall be applied to the extent provided in such Circular
+to grants, contracts and other agreements to which OMB Circular A-21 is applicable,
+subject to any limitations in part A of this section.  Copies of this document may
+be provided by either party to other Federal agencies which have or intend to issue
+or award grants and contracts using these rates or to otherwise provide such
+agencies with documentary notice of this agreement and its terms and conditions.
+
+
+FOR THE UNIVERSITY                             FOR THE GOVERNMENT
+
+                                                                                                                                       
+/S/                                            /S/                         
+Signature                                      Signature
+
+Craig S. Bazzani                               Michael Kuc
+Name                                           Name
+
+Controller & Authorized Representative of      Contracting Officer
+the Board of Trustees                          Title
+Title
+
+10/8/99                                        20/12/99
+Date                                           Date                                                 
+      

@@ -1,0 +1,210 @@
+CllgCO University of Denver 840404231 6/28/00  0167
+
+               NEGOTIATION AGREEMENT 
+
+Institution:   UNIVERSITY OF DENVER
+               DENVER, COLORADO  80208                       
+
+The Facility and Administrative Cost Rates, Fringe Benefits Rates, and Lab rates
+contained herein are for use on grants, contracts and/or other agreements issued
+or awarded to the University of Denver by all Federal Agencies of the United
+States of America, in accordance with the provisions and cost principles
+mandated by the Office of Management and Budget (OMB) Circular A-21.  These
+rates shall be used for forward pricing and billing purposes at the University
+of Denver for Fiscal Years 2001 and 2002.  This rate agreement supersedes all
+previous rate agreements/determinations for Fiscal Year 2001 and 2002.
+
+SECTION I:  RATES - TYPE: PREDETERMINED (PRED)
+                    FIXED AND CARRYFORWARD PROVISIONS (FIXED)
+
+Facility and Administration Rates:
+
+       Effective Period                
+Type   From      To          Rate    Base     Applicable To          Location
+
+Pred   7/1/00    6/30/01     44.0%   (a)      Organized Research     On-Campus 
+                                              Academic Research Center
+
+Pred   7/1/01    6/30/02     43.0%   (a)      Organized Research     On-Campus 
+                                              Academic Research Center
+
+Pred   7/1/00    6/30/02     57.0%   (a)      Sponsored Instruction  On-Campus 
+
+Pred   7/1/00    6/30/02     27.0%   (a)      Other Sponsored        On-Campus 
+                                              Activities
+
+Fixed  7/1/00    6/30/01     48.0%   (a)      Organized Research (1) On-Campus
+                                              Denver Research Institute
+
+Fixed  7/1/00    6/30/01     26.0%   (a)      Organized Research (1) Off-Campus
+                                              Denver Research Institute
+
+Fixed  7/1/00    6/30/01     52.0%   (a)      Organized Research (2) On-Campus 
+                                              Denver Research Institute
+
+Fringe Benefits Rates:
+
+Fixed  7/1/00    6/30/01     20.5%   (b)      Appointed              All
+
+Fixed  7/1/00    6/30/01      7.1%   (c)      Non-Appointed          All
+
+Fixed  7/1/00    6/30/01      1.2%   (c)      Students               All
+
+Denver Research Institute  (DRI)  Lab Rate:
+
+Fixed  7/1/00    6/30/01    $12.50   (d)      DRI                    DRI  
+
+Denver Research Institute  (DRI) Law Enforcement Rate:
+
+Fixed  7/1/00    6/30/01    $ 2.00   (d)      DRI                   DRI
+
+                       DISTRIBUTION BASES:
+
+The following bases are applicable to the above cited rates:
+
+     (a)  Modified Total Direct Cost (MTDC), as defined in OMB Circular A-21, consists
+          of salaries and wages, fringe benefits, materials and supplies, services,
+          travel and subgrants and subcontracts up to the first $25,000 of each
+          subgrant or subcontract (regardless of the period covered by the subgrant
+          or subcontract).  Equipment (see Section II, paragraph H for definition),
+          capital expenditures, charges for patient care and tuition remission, rental
+          costs, scholarships, and fellowships as well as the portion of each subgrant
+          and subcontract in excess of $25,000 is excluded.
+
+     (b)  Total Salaries and Wages, including holidays, vacations, sick leave, and
+          overtime.
+
+     (c)  Total Salaries and Wages and overtime.
+
+     (d)  Direct Labor Hours.
+
+                         APPLICABLE TO
+
+     (1)  Applies to DOD contracts awarded before November 30, 1993, all Non-DOD
+          Instruments, and all DOD Grants.
+
+     (2)  Applies to only DOD contracts awarded on or after November 30, 1993 in
+          accordance with and under the authority of DFARS 231.303(1).  See Section
+          II, Part F  thereof.
+
+SECTION II - GENERAL TERMS AND CONDITIONS
+
+A.   LIMITATIONS:  Use of the rates set forth under Section I is subject to any
+statutory or administrative limitations and is applicable to a given grant,
+contract or other agreement only to the extent that funds are available and
+consistent with any and all limitations of cost clauses or provisions, if any,
+contained therein.  Acceptance of the rates agreed to herein is predicated upon
+all of the following conditions: (1) that no costs other than those incurred by
+the grantee/contractor were included in this indirect cost pool as finally
+accepted and that such costs are legal obligations of the grantee/contractor
+and allowable under governing cost principles; (2) that the same costs that
+have been treated as indirect costs are not claimed as direct costs; (3) that
+similar types of costs have been accorded consistent accounting treatment; and
+(4) that the information provided by the grantee/contractor, which was used as
+the basis for acceptance of the rates agreed to herein and expressly relied
+upon by the Government in negotiating and accepting the said rates, is not
+subsequently found to be materially incomplete or inaccurate.
+
+B.   ACCOUNTING CHANGES:  The rates contained in Section I of this agreement
+are based on the accounting system in effect at the time the agreement was
+negotiated.  Changes to the method(s) of accounting for costs which affect
+the amount of reimbursement resulting from the use of these rates require
+the written approval of the authorized representative of the cognizant
+negotiating agency for the Government prior to implementation of any such
+changes.  Such changes include but are not limited to changes in the
+charging of a particular type of costs from indirect to direct.  Failure
+to obtain such approval may result in subsequent cost disallowances.
+
+C.   PREDETERMINED RATES: The predetermined rates set forth in Section I
+of this agreement are not subject to adjustment in accordance with the
+provisions of OMB Circular A-21, subject to the limitations contained in
+Part A of this section.
+
+D.   FIXED RATES AND CARRY-FORWARD PROVISIONS: The fixed rates set forth
+in Section I of this agreement are based on estimates of the costs for
+FY 2001.  When actual costs for this period is determined, an adjustment
+will be made to the rates of a future year to recognize the difference
+between the FY 2001 estimated costs used to establish the fixed rates
+and the negotiated actual FY 2001 costs.
+
+E.  CARRY-FORWARD AMOUNTS: The rates set forth in Section I of this
+agreement are inclusive of carry-forward amounts as follows:
+
+Rate/Applicable To             Fiscal Year    University (Over)/Under Recovery
+Organized Research - DRI (1)   1998           ($6,216)
+                               1999            $8,199 estimated
+                         
+Organized Research - DRI (2)   1997            $49,725
+                               1998           ($20,534)
+DRI Lab Rate                   1998           ($39,655)
+                               1999            $ 5,000 estimated
+
+Fringe Benefits: Appointed     1998            $489,767
+                 Non-Appointed 1998           ($ 50,423)
+                 Students      1998           ($ 25,363)
+                 
+                 Appointed     1999           ($189,975) estimated
+                 Non-Appointed 1999           ($ 17,469) estimated
+                 Students      1999           ($  2,171) estimated
+
+
+F.    APPLICATION OF FACILITY & ADMINISTRATIVE COST RATES TO DoD CONTRACTS/
+SUBCONTRACTS: 
+
+     1.  Signature of this agreement by the authorized representative of the
+University of Denver and the Government acknowledges and affirms the
+University's request to waive the prohibition contained in DFARS 231.303(1)
+except for the DRI On Campus Organized Research rates (see paragraph F.2.
+below) and the Government's exercise of its discretion contained in DFARS
+231.303(2) to waive the prohibition in DFARS 231.303(1).  The waiver
+request by the University of Denver is made to simplify the University's
+overall management of DOD cost reimbursements under DOD contracts.
+
+     2.  In accordance with DFARS 231.303, no limitation (unless waived by
+the institution) may be placed on the reimbursement of otherwise allowable
+indirect costs incurred by an institution of higher education under a DoD
+contract awarded on or after November 30, 1993, unless the same limitation
+is applied uniformly to all other organizations performing similar work.
+It has been determined by DoD that such limitation is not being uniformly
+applied.  Accordingly, the DRI On Campus Organized Research rates cited
+(2) of Section I, as explained under the title "APPLICABLE TO" (2), do
+not reflect the application of the 26% limitation on administrative
+indirect costs imposed by OMB Circular A-21 where as (1) does.
+
+G.  USE BY OTHER FEDERAL AGENCIES:  The rates set forth in Section
+Ihereof were negotiated in accordance with and under the authority
+set forth in OMB Circular A-21.  Accordingly, such rates shall be
+applied to the extent provided in such circular to grants and 
+contracts to which OMB Circular A-21 is applicable, subject to any
+limitations in part A of this section.  Copies of this document may
+be provided by either party to other Federal agencies which have or
+intend to issue or award grants and contracts using these rates or
+to otherwise provide such agencies with documentary notice of this
+agreement and its terms and conditions.
+          
+H.  SPECIAL REMARKS: The definition of equipment acquired on or before
+June 30, 2000 is equipment having a useful life of more than one year
+and an acquisition cost which equals or exceeds $500. The definition
+of equipment acquired after June 30, 2000 is equipment having a useful
+life of more than one year and an acquisition cost which equals or
+exceeds $2,000.   
+     
+Acceptance:
+     
+FOR THE UNIVERSITY:                       FOR THE U.S GOVERNMENT:
+                                        
+
+/s/                                       /s/                                                 
+CRAIG WOODY                               DEBORAH K. RAFI
+Vice Chancellor for                       Contracting Officer
+Business and Financial Affairs
+
+28 June 2000                              28 June 2000                               
+Date                                      Date
+
+     
+for information concerning this agreement contact:
+OFFICE OF NAVAL RESEARCH
+DEBORAH K. RAFI, BCT #1, Rm 704
+800 N. QUINCY STREET ARLINGTON, VA  22217
+PHONE: (703) 696-5641    E-mail: rafid@onr.navy.mil

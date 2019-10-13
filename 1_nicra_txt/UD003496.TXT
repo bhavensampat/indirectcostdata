@@ -1,0 +1,184 @@
+                                                                                                                            
+CllgGA  Georgia Institute of Technology  580603146  08/26/97 0034
+
+                NEGOTIATION AGREEMENT
+
+Institution:   GEORGIA INSTITUTE OF TECHNOLOGY
+               GEORGIA TECH RESEARCH CORPORATION
+               ATLANTA, GEORGIA  30332
+
+ONR Indirect Cost Rate Agreement dated 17 July 1996 established fixed 
+rates with carryforward provisions for Georgia Institute Of 
+Technology (GIT)/ Georgia Tech Research Corporation (GTRC) for fiscal 
+year ending 30 June 1996.
+
+The purpose of this negotiation agreement is to record agreement on 
+the carryforward amounts resulting from determination of actual costs 
+for FY 1996 (FY96).
+
+The rates listed below are based on GIT/GTRC's FY 96 actual indirect 
+cost rates proposal dated 12 December 1996 and DCAA Audit Reports 
+No. 1101-97T10150001 dated 24 June 1997, No. 1101-97T10160012 dated 
+13 March 1997, and No. 1101-97T11050001 dated 24 June 1997.  These 
+rates have been determined in accordance with the provisions of OMB 
+Circular A-21.
+
+SECTION I: RATES - TYPE: ACTUAL 
+
+TYPE     FROM   TO       RATE   BASE  APPLICABLE TO          LOCATION
+
+      Facilities And Administrative Rates (Indirect Cost Rates)                      
+                                
+Actual  7/1/95  6/30/96  47.4%  (a)  Organized Research (1)  RI*
+Actual  7/1/95  6/30/96  47.9%  (a)  Organized Research (2)  RI
+Actual  7/1/95  6/30/96  47.4%  (a)  Organized Research (1)  GTRI**
+Actual  7/1/95  6/30/96  50.0%  (a)  Organized Research (2)  GTRI
+
+                     Fringe Benefit Rates
+                                
+Actual  7/1/95  6/30/96  25.5%  (b)  All Programs            RI/GTRI
+Actual  7/1/95  6/30/96   1.4%  (c)  All Programs            RI/GTRI 
+ 
+*   Resident Instruction
+** Georgia Tech Research Institute
+
+                            DISTRIBUTION BASE
+          
+     (a)  Modified Total Direct Cost (MTDC), as defined in OMB Circular 
+A-21, consisting of all salaries and wages, fringe benefits, materials 
+and supplies, services, travel, Program Management Costs, Allocated 
+Project Level Costs, and subgrants and subcontracts up to the first 
+$25,000 each (regardless of the period covered by the subgrant or 
+subcontract); and excluding equipment (defined as having a useful 
+life of more than two years, and an acquisition cost of $1,000 or 
+more per unit), capital expenditures, charges for tuition remission, 
+rental costs (except rental costs for equipment or facilities that 
+are charged direct to a sponsored agreement), scholarships and 
+fellowships, as well as the portion of each subgrant and subcontract 
+in excess of $25,000. 
+
+     (b)  Salaries and wages of (i) regular full-time faculty, (ii) 
+principal investigators, (iii) professional and administrative staff, 
+(iv) joint staff, (v) temporary academic or research professionals 
+covered by the Teachers Retirement System (TRS) and group health and 
+life insurance, (vi) bi-weekly permanent employees and (vii) 
+part-time employees who work 50 percent but less than 100 percent of 
+a full-time work schedule.
+
+     (c)  Salaries and wages of employees who participate in all or 
+part of the social security program but do not participate in TRS 
+or group health and life insurance plans.  This rate covers (i) 
+temporary classified persons, (ii) temporary academic or research 
+professionals not eligible for TRS or group health or life 
+insurance coverage, (iii) student employees who work in excess of 
+20 hours per week or are registered for less than a full academic 
+load and (iv) part-time employees employed for less than 50 percent 
+of a full work schedule.
+
+                          APPLICABLE TO
+
+      (1)  Applies to all DoD contracts awarded before 
+November 30, 1993, all Non-DoD Instruments, and all DoD Grants.
+
+      (2)  Applies only to DoD contracts awarded on or after 
+November 30, 1993 in accordance with and under the authority of 
+DFARS 231.303(1).  See Special Remarks below.  
+
+                                                   
+                          CARRYFORWARDS
+
+The carryforward amounts resulting from establishment of FY 96 
+actual costs are as follows:
+
+                                                 
+               Resident Instruction ($000's)
+
+$ 150 (O)  - FY 96 Total C/F Amount
+  150 (O)  - Estimated FY 96 C/F Amount Liquidated Through 
+             FY98 Provisional Rate
+$ 000      - FY 96 C/F Balance 
+
+                                         
+                         GTRI ($000's)
+
+$1,330 (O)  - FY 96 Total C/F Amount
+   330 (O)  - Estimated FY 96 C/F Amount Liquidated Through 
+              FY98 Provisional Rates
+$1,000 (O)  - FY 96 C/F Balance To Be Liquidated Through 
+              Future Year's Rate
+
+                                                  
+                        Fringe Benefits (Partial) ($000's)
+
+$  32 (O)  - FY 96 RI/GTRI Total C/F Amount
+   32 (O)  - Estimated FY 96 C/F Amount Liquidated Through 
+             FY98 Provisional Rate
+$ 000      - FY 96 C/F Balance 
+
+                                                   
+                        Fringe Benefits (Full) ($000's)
+
+$  98 (O)  - FY 96 RI/GTRI Total C/F Amount
+   98 (O)  - Estimated FY 96 C/F Amount Liquidated Through 
+             FY 8 Provisional Rate
+$ 000      - FY 96 C/F Balance 
+
+C/F Denotes "Carryforward"
+(U) Denotes "Underrecovery"
+(O) Denotes "Overrecovery"
+
+The unliquidated overrecovery carryforward balance of $1,000 shown 
+above will be liquidated during a future fixed or predetermined 
+rates negotiation.  In the event that GIT/GTRC changes to the use 
+of postdetermined rates, the above unliquidated carryforward 
+balance will be liquidated as part of the next postdetermined 
+rates negotiation.
+
+                                                   
+                       SPECIAL REMARKS
+
+APPLICATION OF INDIRECT COST RATES TO DOD CONTRACTS/SUBCONTRACTS:  
+In accordance with DFARS 231.303, no limitation (unless waived by 
+the institution) may be placed on the reimbursement of otherwise 
+allowable indirect costs incurred by an institution of higher
+education under a DOD contract awarded on or after 
+November 30, 1993, unless the same limitation is applied uniformly 
+to all other organizations performing similar work.  It has been 
+determined by the Department of Defense that such limitation is 
+not being uniformly applied.  Accordingly, the rates cited (2) of 
+Section I, as explained under the title "APPLICABLE TO" do not 
+reflect the application of the 26% limitation on administrative 
+indirect costs imposed by OMB Circular A-21 whereas (1) does so.
+
+Please indicate your acceptance of the FY 96 actual rates and 
+carryforward adjustments by signature in the space provided below.  
+The terms of this negotiation agreement are subject to all 
+regulations and statutes applicable to any contract, grant, or 
+other agreement including the provisions of OMB Circular A-21.  
+The terms of this negotiation agreement will not change any 
+monetary ceilings of any individual Federal contract, grant, 
+or other agreement with GIT/GTRC.
+
+                                       
+GEORGIA INSTITUTE OF TECHNOLOGY    FOR THE U.S GOVERNMENT
+GEORGIA TECH RESEARCH CORP.
+
+
+       /s/                                       /s/
+J.W. Dees                          Robert E. Austen
+Associate VP for Research          Contracting Officer
+& Director OCA, Assistant 
+Secretary
+
+
+                                                                                                                                       
+Date                               Date
+
+
+        For information concerning this document contact:
+                            R. E. Austen
+                      Office of Naval Research
+                       Indirect Costs/ONR 242
+                        800 N. Quincy Street
+                        Arlington, VA  22217
+                           (703) 696-4514

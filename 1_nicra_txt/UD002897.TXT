@@ -1,0 +1,371 @@
+
+
+CllgNY Cornell University Statutory College 156002550 06/30/97 0028
+                                                                             
+  
+                        NEGOTIATION AGREEMENT 
+                                                                              
+            
+INSTITUTION:   CORNELL UNIVERSITY
+               ITHACA, NEW YORK 14850
+
+The Facilities and Administrative (F&A) rates (indirect cost rates)
+contained herein are for use on grants, contracts and/or other 
+agreements issued or awarded to Cornell University by all Federal 
+Agencies of the United States of America, in accordance with the 
+cost principles and provisions mandated by the Office of 
+Management and Budget (OMB) Circular A-21. These rates shall be
+used for forward pricing and billing purposes for Cornell 
+University's Fiscal Years 1997 and 1998.  This rate agreement 
+supersedes all previous rate agreements or determinations for 
+Fiscal Years 1997 and 1998.
+                                                               
+
+SECTION I: RATES - TYPE: FIXED WITH CARRYFORWARD (FIXED) 
+                                                                  
+
+FY1997 
+
+TYPE    FROM      TO       RATE     BASE  LOCATION   APPLICABLE TO
+
+Endowed College
+Fixed   7/1/96   6/30/97   61.09%   (a)  On Campus   All Programs (1)     
+Fixed   7/1/96   6/30/97   61.09%   (a)  On Campus   All Programs (2)  
+Fixed   7/1/96   6/30/97   30.64%   (a)  Off Campus  All Programs (1)
+Fixed   7/1/96   6/30/97   30.64%   (a)  Off Campus  All Programs (2)
+Fixed   7/1/96   6/30/97   13.16%   (a)  Off Campus  All NAIC Progs (1)
+Fixed   7/1/96   6/30/97   13.16%   (a)  Off Campus  All NAIC Progs (2)
+
+Statutory College
+Fixed   7/1/96   6/30/97   56.81%   (a)  On Campus   All Programs (1)
+Fixed   7/1/96   6/30/97   56.81%   (a)  On Campus   All Programs (2)
+Fixed   7/1/96   6/30/97   24.31%   (a)  Off Campus  All Programs (1) 
+Fixed   7/1/96   6/30/97   24.31%   (a)  Off Campus  All Programs (2)
+
+Geneva
+Fixed   7/1/96   6/30/97   46.07%   (a)  On Campus   All Programs (1)
+Fixed   7/1/96   6/30/97   46.07%   (a)  On Campus   All Programs (2)
+Fixed   7/1/96   6/30/97   13.84%   (a)  Off Campus  All Programs (1)
+Fixed   7/1/96   6/30/97   13.84%   (a)  Off Campus  All Programs (2)  
+
+ESA
+Fixed   7/1/96   6/30/97   70.02%   (a)  On Campus   All Programs (1)
+Fixed   7/1/96   6/30/97   66.47%   (a)  On Campus   All Programs (2)
+Fixed   7/1/96   6/30/97   24.79%   (a)  Off Campus  All Programs (1)
+Fixed   7/1/96   6/30/97   20.02%   (a)  Off Campus  All Programs (2)  
+
+
+FY 1998 
+
+TYPE     FROM    TO        RATE    BASE  LOCATION    APPLICABLE TO
+
+Endowed College
+Fixed   7/1/97   6/30/98   55.03%   (a)  On Campus   All Programs (1)     
+Fixed   7/1/97   6/30/98   55.03%   (a)  On Campus   All Programs (2)   
+Fixed   7/1/97   6/30/98   23.07%   (a)  Off Campus  All Programs (1)
+Fixed   7/1/97   6/30/98   23.07%   (a)  Off Campus  All Programs (2)
+Fixed   7/1/97   6/30/98   13.72%   (a)  Off Campus  All NAIC Progs (1)
+Fixed   7/1/97   6/30/98   13.72%   (a)  Off Campus  All NAIC Progs (2)
+
+Statutory College
+Fixed   7/1/97   6/30/98   55.13%   (a)  On Campus   All Programs (1)
+Fixed   7/1/97   6/30/98   55.13%   (a)  On Campus   All Programs (2)
+Fixed   7/1/97   6/30/98   23.60%   (a)  Off Campus  All Programs (1) 
+Fixed   7/1/97   6/30/98   23.60%   (a)  Off Campus  All Programs (2)
+
+Geneva
+Fixed   7/1/97   6/30/98   44.42%   (a)  On Campus   All Programs (1)
+Fixed   7/1/97   6/30/98   44.42%   (a)  On Campus   All Programs (2)
+Fixed   7/1/97   6/30/98   16.02%   (a)  Off Campus  All Programs (1)
+Fixed   7/1/97   6/30/98   16.02%   (a)  Off Campus  All Programs (2)   
+
+ESA
+Fixed   7/1/97   6/30/98   68.51%   (a)  On Campus   All Programs (1)
+Fixed   7/1/97   6/30/98   64.70%   (a)  On Campus   All Programs (2)
+Fixed   7/1/97   6/30/98   21.68%   (a)  Off Campus  All Programs (1)
+Fixed   7/1/97   6/30/98   16.66%   (a)  Off Campus  All Programs (2)  
+
+
+                         DISTRIBUTION BASE
+
+     (a)  Modified total direct costs consisting of salaries and wages,
+fringe benefits, materials and supplies, services, travel, and 
+subgrants and subcontracts up to the first $25,000 of each subgrant 
+or subcontract (regardless of the period covered by the subgrant or 
+subcontract).  Equipment, capital expenditures, charges for tuition 
+remission, rental costs (in accordance with Cornell's Form CASB-2 
+Disclosure Statement), scholarships and fellowships, as well as the 
+portion of each subgrant and subcontract in excess of $25,000 shall 
+be excluded from modified total direct costs.
+
+
+                          APPLICABLE TO
+
+(1) Applies to all DoD contracts and subcontracts awarded on or 
+after November 30, 1993 in accordance with and under the authority of 
+DFARS 231.303(1).  See Section II, Part F hereof.
+
+(2) Applies to all DOD contracts and subcontracts awarded or issued 
+before November 30, 1993, all Non-DOD instruments, and all DOD 
+grants.  See Section II, Part F hereof.
+                                                             
+
+SECTION II - GENERAL TERMS AND CONDITIONS
+                                                                  
+
+A. LIMITATIONS  
+
+Use of the rates contained in this agreement is subject to any 
+statutory or administrative limitations and is applicable to a 
+given grant, contract or other agreement only to the extent that
+funds are available and consistent with any and all limitations of 
+cost clauses or provisions, if any, contained therein.  Acceptance 
+of the rates agreed to herein is predicated upon the following 
+conditions: (1) that no costs other than those incurred by the 
+grantee/contractor were included in its Facilities and Administrative
+cost pool as finally accepted and that such costs are legal obligations 
+of the grantee/contractor and allowable under governing cost 
+principles; (2) that the same costs that have been treated as indirect 
+costs are not claimed as direct costs; (3) that similar types of costs, 
+in like circumstances, have been accorded consistent accounting 
+treatment; and (4) the information provided by the institution, which 
+was used as the basis for acceptance of the rates agreed to herein and 
+expressly relied upon by the Government in negotiating the said rates, 
+is not subsequently found to be materially in-complete or inaccurate.
+
+Note: Condition (1) is not intended to exclude otherwise allowable 
+costs that are incurred by the State of New York in support of the 
+Statutory Colleges of Cornell University.
+
+
+B. ACCOUNTING CHANGES 
+
+The fixed rates contained in this agreement are based on the accounting
+system in effect at the time the agreement was negotiated. Changes to 
+the method(s) of accounting for costs which affect the amount of 
+reimbursement resulting from the use of these rates require the written 
+approval of the authorized representative of the cognizant negotiating 
+agency for the Government prior to implementation of any such changes. 
+Such changes include but are not limited to changes in the charging of 
+a particular type of cost from indirect to direct. Failure to obtain 
+such approval may result in subsequent cost disallowances.
+
+
+C. USE BY OTHER FEDERAL AGENCIES
+
+The rates in this agreement were established in accordance with the 
+authority in Office Of Management and Budget Circular A-21, and should 
+be applied to grants, contracts and other agreements covered by Office
+of Management and Budget Circular A-21, subject to any limitations in 
+A above.  The institution may provide copies of the agreement to other 
+Federal agencies to give them early notification of the agreement 
+contained herein.
+
+D. FIXED RATES WITH CARRYFORWARD PROVISIONS   
+
+     1.   This type of rate is considered final and not subject to
+adjustment in accordance with the provisions of OMB Circular A-21 and 
+the Federal Acquisition Regulation, subject to the limitations 
+contained in Part A of this Section; except that the difference 
+between the estimated costs and the actual costs of the period 
+covered by the rate is carried forward as an adjustment to the 
+rate computation of a subsequent period as discussed below.
+
+     2.   The FY97 and FY98 rates contained in this agreement are based 
+on estimates of the costs for FY97and FY98.  When actual costs for 
+each period are determined, adjustments will be applied to a subsequent 
+rate negotiation to recognize the difference between the estimated 
+costs used to establish the fixed rates with carryforward provisions 
+established herein and the negotiated actual costs for each period.
+
+E. SPECIAL PROVISIONS
+
+     1.   The fixed rates contained in this agreement are based, in 
+part, on the institution's cost allocation special study for utility 
+costs and an alternate allocation base for library costs.  The 
+Government has not accepted the methodology or results of this 
+special study or alternate allocation base, but has agreed to 
+partially utilize the results of the study and alternate allocation 
+base as a basis for negotiating the university's FY97 and FY98 F&A 
+cost rates.  Use of such methodologies is on a non-precedent
+setting basis, and does not imply Government acceptance of the 
+results of the utility cost allocation special study or the library 
+cost alternate allocation base in this or any other F&A cost rate 
+negotiation.
+
+     2.   The fixed rates set forth herein include the following 
+amounts for the liquidation of carryforwards from prior fiscal 
+years ($000's):    
+
+                                               Year Where
+                          Carryforward         Carryforward              
+Location                  Amount               Originated             
+
+Endowed (On)             $4,872 (O)             1989   
+                         $2,551 (O)             1990
+Subtotal                 $7,423 (O)                         
+                         
+Liquidated in FY97       $1,690 (O)
+Liquidated in FY98       $5,733 (O)
+Unliquidated Balance     $  000
+
+
+
+Endowed (Off)            $   74 (U)             1993
+                         $   15 (U)             1994
+Subtotal                 $   89 (U)
+                         
+Liquidated In FY97       $  122 (U)
+Liquidated In FY98       $   33 (O)
+Unliquidated Balance    $   000
+
+
+NAIC                     $  175 (U)             1993
+                         $   66 (O)             1994
+Subtotal                 $  109 (U)
+
+Liquidated In FY97       $   38 (U)
+Liquidated In FY98       $   71 (U)
+Unliquidate Balance      $  000
+
+
+Statutory On             $3,694 (O)             1987
+                         $    7 (U)             1994
+                         $1,647 (O)             1988
+                         $1,950 (O)             1990
+                         $  682 (O)             1992
+Subtotal                 $7,966 (O)
+                         
+Liquidated In FY97       $3,112 (O)
+Liquidated In FY98       $4,854 (O)
+Unliquidated Balance     $  000
+
+
+
+Statutory (Off)          $  113 (U)             1986
+                         $  185 (O)             1990
+                         $   31 (U)             1994
+                         $  100 (U)             1986
+                         $  208 (O)             1989
+                         $   37 (U)             1991
+                         $   43 (U)             1994
+Subtotal                 $   69 (O)
+
+Liquidated In FY97       $   24 (O)
+Liquidated In FY98       $   45 (O)
+Unliquidated Balance     $  000
+
+
+
+ESA (On)                $ 4,497 (U)             1989
+                        $ 5,995 (U)             1992
+                        $ 7,968 (U)             1990
+Subtotal                $18,460 (U)
+
+Liquidated In FY97      $10,170 (U)
+Liquidated In FY98      $ 8,290 (U)
+Unliquidated Balance    $   000
+
+
+ESA (Off)                $  417 (O)             1987
+                         $  407 (O)             1987
+                         $  209 (O)             1992
+Subtotal                 $1,033 (O)
+
+Liquidated In FY97       $  400 (O)               
+Liquidated In FY98       $  633 (O)
+Unliquidated Balance     $  000
+
+
+
+Geneva (On)              $  943 (O)             1991
+                         $1,030 (O)             1992        
+                         $  452 (O)             1993
+                         $1,437 (U)             1994
+Subtotal                 $  988 (O)
+                         
+Liquidated In FY97       $  360 (O)
+Liquidated In FY98       $  628 (O)
+Unliquidated Balance     $  000
+
+
+Geneva (Off)             $   31 (O)             1987        
+                         $    7 (O)             1989
+                         $   34 (O)             1992                          
+                         $    5 (U)             1994
+Subtotal                 $   67 (O)
+
+Liquidated In FY97       $   37 (O)
+Liquidated In FY98       $   30 (O)
+Unliquidated Balance     $  000
+  
+
+(U) Denotes Underrecovery
+(O) Denotes Overrecovery
+
+
+The FY97 and FY98 fixed rates set forth in this agreement complete the
+liquidation of all remaining final carryforward balances from FY 1986 
+through FY 1994, with the exception of the following:
+
+                                        Liquidated         Remaining 
+                       Total Carry      Thru Forward       Unliquidated
+Location        Year   Forward          Pricing Rates      Balance    
+
+Endowed (On)    FY93   $  303(O)         $000              $  303(O)*
+                                  
+Endowed (On)    FY94   $1,106(O)         $000              $1,106(O)*
+
+
+* These carryforward balances will be liquidated through the FY99 fixed
+or predetermined rates.
+
+     3.  Extraordinary electrical costs for the Laboratory Of Nuclear
+Studies and extraordinary electrical costs, telecommunications costs 
+and chilled water costs of the Theory Center program associated with, 
+but not including normal utility costs for building maintenance are 
+excluded from the modified total direct cost base.  In addition, the 
+electrical costs of the NAIC Aericibo radio telescope site in Puerto 
+Rico are also excluded from the modified total direct cost base.  The 
+exclusion of these costs from the MTDC base does not represent an 
+agreement that these exclusions are accepted for subsequent 
+negotiation of future years' rates.
+
+     4.  The purpose of this agreement is to establish fixed F&A cost 
+rates with carryforward provisions for the period 1 July 1996 through 
+30 June 1998.  These rates are based on Cornell University's proposal 
+dated 8 April 1996, and the establishment of these rates by the 
+Government based on the accounting systems and allocation methodologies 
+contained in this proposal does not represent an agreement that these 
+systems and methodologies are accepted for fiscal years 1997, 1998 or 
+for any subsequent fiscal year's negotiation. The recommendations of 
+the DCAA, Binghamton Branch, in Audit Report No. 6351-96C23000002 
+were considered during the negotiation of these rates.
+
+
+F. APPLICATION OF INDIRECT COST RATES TO DOD CONTRACTS 
+
+In accordance with DFARS 231.303, no limitation (unless waived by the
+institution) may be placed on the reimbursement of otherwise allowable
+indirect costs incurred by an institution of higher education under a 
+DOD contract awarded on or after November 30, 1993, unless the same 
+limitation is applied uniformally to all other organizations 
+performing similar work.  It has been determined by the Department 
+of Defense that such limitation is not being uniformally applied.  
+Accordingly, the rates cited (1) of Section I, as explained under 
+the title "APPLICABLE TO" (1), do not reflect the application of 
+the 26% limitation on administrative indirect costs imposed by OMB
+Circular A-21 whereas (2) does so.
+ 
+
+FOR CORNELL UNIVERSITY              FOR THE GOVERNMENT:
+
+
+
+Y.S. REYNOLDS                       ROBERT E. AUSTEN        
+Associate Vice President and        Contracting Officer
+University Controller                     
+                                 
+                                                            
+Date                                Date
+

@@ -1,0 +1,229 @@
+CllgWA  University of Washington  1916001537A1  07/15/05  2129
+
+                 COLLEGES AND UNIVERSITIES RATE AGREEMENT
+
+   EIN #:                                DATE: July 15, 2005
+
+   INSTITUTION:                                       FILING REF.: The preceding
+   University of Washington                           Agreement was dated
+   Management Accounting and Analysis                 October 27, 2004
+   UW Box 354165                 
+   Seattle, WA  98195     
+
+     The rates approved in this agreement are for use on grants, contracts and other
+     agreements with the Federal Government, subject to the conditions in Section III.
+                                                                                                         
+                                                                                                         
+   SECTION I: FACILITIES AND ADMINISTRATIVE COST RATES*
+
+   RATE TYPES: FIXED     FINAL     PROV.(PROVISIONAL)    PRED.(PREDETERMINED)
+
+            EFFECTIVE PERIOD                            
+   TYPE      FROM      TO        RATE(%)   LOCATIONS      APPLICABLE TO                                                                       
+
+   PRED.   07/01/04 06/30/05       51.6    (1)  &  (A)    (G)                 
+   PRED.   07/01/05 06/30/07       55.5    (1)  &  (A)    (G)                 
+   PRED.   07/01/07 06/30/09       56.0    (1)  &  (A)    (G)                 
+   PRED.   07/01/04 06/30/09       26.0    (1)  &  (B)    (H)                 
+   PRED.   07/01/04 06/30/05       55.0    (1)  &  (A)    (I)                 
+   PRED.   07/01/05 06/30/09       58.0    (1)  &  (A)    (I)                 
+   PRED.   07/01/04 06/30/09       26.0    (1)  &  (B)    (I)                 
+   PRED.   07/01/04 06/30/05       30.0    (1)  &  (C)    (J)                 
+   PRED.   07/01/04 06/30/05       60.0    (1)  &  (C)    (K)                 
+   PRED.   07/01/05 06/30/09       44.0    (1)  &  (C)    (J)                 
+   PRED.   07/01/05 06/30/09       75.0    (1)  &  (C)    (K)                 
+   PRED.   07/01/04 06/30/09       17.0    (1)  &  (D)                        
+   PRED.   07/01/04 06/30/09       25.0    (2)  &  (F)                        
+   PRED.   07/01/05 06/30/09       66.0    (1)  &  (L)    (G)                 
+   PROV.   07/01/09 UNTIL AMENDED  Use same rates and conditions as those cited
+                                   for fiscal year ending June 30, 2009.
+
+     (A)  On-Campus                  (B)  Off-Campus                                    
+     (C)  Regional Primate Center    (D)  Applied Physics Laboratory                    
+     (E)  (Intentionally Blank)                                                           
+     (F)  Vessel Operations                                                               
+     (G)  Organized Research                                                              
+     (H)  Organized Research & General Clinical Research Center                           
+     (I)  Instruction                                                                   
+     (J)  Core Grant Only                                                                 
+     (K)  Regional Primate Center Research except Core Grant                              
+     (L)  Lake Union Campus                                                               
+                                                                                          
+     *BASE:                                                                               
+     (1) Modified total direct costs, consisting of all salaries and wages, fringe        
+     benefits, materials and supplies, services, travel, and subgrants and subcontracts up
+     to the first $25,000 of each subgrant or subcontract (regardless of the period       
+     covered by the subgrant or subcontract). Equipment, capital expenditures, charges for
+     patient care and tuition remission, rental costs, scholarships, and fellowships as   
+     well as the portion of each subgrant and subcontract in excess of $25,000 shall be   
+     excluded from modified total direct costs.                                           
+                                                                                          
+     (2) Direct salaries and wages including vacation, holiday and sick pay and other paid
+     absences but excluding other fringe benefits.                                        
+                                                                                                      
+                                                                                                      
+   SECTION I: FRINGE BENEFITS RATES**
+
+   RATE TYPES: FIXED     FINAL     PROV.(PROVISIONAL)    PRED.(PREDETERMINED)
+
+            EFFECTIVE PERIOD                            
+   TYPE      FROM      TO        RATE(%)   LOCATIONS      APPLICABLE TO                                                                       
+
+   FIXED   07/01/05 06/30/06       23.2    (1)  &  (B)    Faculty             
+   FIXED   07/01/05 06/30/06       27.0    (1)  &  (A)    Auxiliary Teaching  
+   FIXED   07/01/05 06/30/06       23.6    (1)  &  (A)    Residents           
+   FIXED   07/01/05 06/30/06       13.4    (1)  &  (A)    Graduate Students   
+   FIXED   07/01/05 06/30/06       18.1    (1)  &  (A)    Post Doctorate      
+   FIXED   07/01/05 06/30/06       30.8    (1)  &  (B)    Classified Staff    
+   FIXED   07/01/05 06/30/06       27.1    (1)  &  (B)    Professional Staff  
+   FIXED   07/01/05 06/30/06       11.1    (1)  &  (A)    Hourly              
+   FIXED   07/01/05 06/30/06       11.0    (1)  &  (A)    Pre-Doctoral Fellows
+   FIXED   07/01/05 06/30/06       54.6    (2)  &  (C)    Classified Staff    
+   FIXED   07/01/05 06/30/06       47.9    (2)  &  (C)    Professional Staff  
+   FIXED   07/01/05 06/30/06       41.9    (2)  &  (C)    Faculty             
+
+     (A)  Entire University                                                     
+     (B)  All except Applied Physics Laboratory                                 
+     (C)  Applied Physics Laboratory                                            
+                                                                                
+   **BASE:                                                                    
+     (1)  Direct salaries and wages including vacation, holiday, and sick pay   
+     but excluding other fringe benefits.                                       
+                                                                                
+     (2)  Direct salaries and wages excluding vacation, sick leave, holidays,   
+     other paid absences and all other fringe benefits.                         
+                                                                                                                                
+                                                                                                                                
+   SECTION II:  SPECIAL REMARKS
+
+   TREATMENT OF FRINGE BENEFITS:                               
+   This organization uses a fringe benefit rate which is applied to salaries  
+   and wages for both budgeting and charging purposes for Federal projects.   
+
+   TREATMENT OF PAID ABSENCES:                             
+   Vacation, holiday, sick leave pay and other paid absences are included in  
+   salaries and wages and are claimed on grants, contracts and other          
+   agreements as part of the normal cost for salaries and wages.  Separate    
+   claims for the costs of these paid absences are not made.                  
+
+   Beginning October 1, 1996 the Applied Physics Laboratory (APL) has separate
+   fringe benefit rates from the remainder of the University of Washington.   
+   These rates include paid absences.  Therefore, charges for direct salaries 
+   and wages from APL must exclude charges for paid absences, including       
+   vacation, sick leave, holidays, and other paid absences.                   
+                                                                              
+   DEFINITION OF EQUIPMENT                                                    
+   Equipment is defined as tangible nonexpendable personal property having a  
+   useful life of more than one year, and an acquisition cost of $2,000 or    
+   more per unit.                                                             
+                                                                              
+   The following fringe benefits are treated as direct costs:                 
+   TIAA/CREF, HEALTH INSURANCE, MEDICAL AID, INDUSTRIAL INSURANCE, WORKERS    
+   COMPENSATION, STATE RETIREMENT, SOCIAL SECURITY, AND UNEMPLOYMENT          
+   COMPENSATION.                                                              
+                                                                              
+   DEFINITION OF ON-CAMPUS, OFF-CAMPUS AND SPECIAL RATES:                     
+   DEFINITION OF OFF-CAMPUS RATE                                              
+   a.  An off-campus program is one that is conducted (1) in leased facilities
+   where space related costs (e.g. rent, utilities and maintenance) are       
+   charged directly to the program, or (2) in facilities made available (at no
+   cost) to the program by a non-University organization, or (3) away from the
+   University over an uninterrupted period of time in excess of 30 days for   
+   field work.  The Off-Campus rate is not to be used as a substitute for the 
+   Vessel Operations rate or the Applied Physics Laboratory rate.  Even though
+   Pack Forest, Big Beef Creek, and Olympic Natural Resource Center are owned 
+   and operated by the University, these facilities are considered to be off  
+   campus.                                                                    
+                                                                              
+   b.  Projects conducted at two or more locations:                           
+   There are instances where a project supported by a single grant or contract
+   is conducted at two or more locations, thus requiring special consideration
+   in determining the appropriate indirect cost provision.  The following     
+   should be observed in such circumstances:                                  
+       (1)  Where the total annual amount of the grant or contract direct     
+   costs is less than $250,000, a single indirect cost rate will be applied.  
+   This rate will be the one currently applicable to the location where the   
+   preponderance of project salaries is located.                              
+       (2)  Where the total annual amount of the grant or contract direct     
+   costs is $250,000 or more, the appropriate rate for each location will be  
+   applied to the modified total direct costs specifically assigned to the    
+   respective location.  In the absence of the institution's ability to       
+   specifically identify and assign costs to each location, the appropriate   
+   rate for each location will be applied to total project costs in the same  
+   ratio as direct salary costs incurred at each location during the period   
+   covered by the project billing or accounting.                              
+                                                                              
+   The Regional Primate Center changed to a dual rate structure beginning July
+   1, 1997.  When applying the rate for RPCR except Core Grant, the difference
+   in recoveries between this rate and the Core Grant only rate shall be      
+   retained by the Core Grant.                                                
+                                                                                                                                     
+                                                                                                                                     
+   SECTION III:  GENERAL
+
+   A.  LIMITATIONS:                  
+   The rates in this Agreement are subject to any statutory or administrative 
+   limitations and apply to a given grant, contract or other agreement only to
+   the extent that funds are available. Acceptance of the rates is subject to 
+   the following conditions:                                                  
+   (1) Only costs incurred by the organization were included in its facilities
+   and administrative cost pools as finally accepted: such costs are legal    
+   obligations of the organization and are allowable under the governing cost 
+   principles; (2) The same costs that have been treated as facilities and    
+   administrative costs are not claimed as direct costs; (3) Similar types of 
+   costs have been accorded consistent accounting treatment; and (4) The      
+   information provided by the organization which was used to establish the   
+   rates is not later found to be materially incomplete or inaccurate by the  
+   Federal Government. In such situations the rate(s) would be subject to     
+   renegotiation at the discretion of the Federal Government.                 
+                                                                              
+   B.  ACCOUNTING CHANGES:                         
+   This Agreement is based on the accounting system purported by the          
+   organization to be in effect during the Agreement period. Changes          
+   to the method of accounting for costs which affect the amount of           
+   reimbursement resulting from the use of this Agreement require             
+   prior approval of the authorized representative of the cognizant agency.   
+   Such changes include, but are not limited to, changes in                   
+   the charging of a particular type of cost from facilities and              
+   administrative to direct. Failure to obtain approval may result in cost    
+   disallowances.                                                             
+                                                                              
+   C.  FIXED RATES:                  
+   If a fixed rate is in this Agreement, it is based on an estimate of the    
+   costs for the period covered by the rate. When the actual                  
+   costs for this period are determined, an adjustment will be made to a rate 
+   of a future year(s) to compensate for the difference                       
+   between the costs used to establish the fixed rate and actual costs.       
+
+   D.  USE BY OTHER FEDERAL AGENCIES:                                    
+   The rates in this Agreement were approved in accordance with the authority 
+   in Office of Management and Budget Circular A-21 Circular, and should be   
+   applied to grants, contracts and other agreements covered by this Circular,
+   subject to any limitations in A above. The organization may provide copies 
+   of the Agreement to other Federal Agencies to give them early notification 
+   of the Agreement.                                                          
+                                                                              
+
+
+
+
+     BY THE INSTITUTION:                                  ON BEHALF OF THE FEDERAL GOVERNMENT:
+     University of Washington                          
+     Management Accounting and Analysis                   DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+     (INSTITUTION)                                        (AGENCY)
+
+
+     (SIGNATURE)                                          (SIGNATURE)
+
+                                                          David S. Low           
+     (NAME)                                               (NAME)
+
+                                                          DIRECTOR, DIVISION OF COST ALLOCATION
+     (TITLE)                                              (TITLE)
+
+                                                          July 15, 2005
+     (DATE)                                               (DATE) 2129
+
+                                                          HHS REPRESENTATIVE:  Robert S. Klein        
+                                                          Telephone: (415) 437-7820

@@ -1,0 +1,223 @@
+CllgNY  Cornell University  15532082  2/17/99  00
+                                                                                                                                                                 
+                                 
+                      NEGOTIATION AGREEMENT
+
+                                                                                                                                          
+
+               Institution:   CORNELL UNIVERSITY
+                              ITHACA, NEW YORK  14850
+
+ONR Negotiation Agreement dated 21 September 1995 established fixed
+rates with carryforward provisions for Cornell University fiscal
+year ending 30 June 1996.
+
+The purpose of this Negotiation Agreement is to record agreement on
+the carryforward amounts resulting from determination of actual costs
+for FY 1996 (FY96).
+
+The rates listed below are based upon Cornell University's final cost
+proposal for FY96, dated 27 February 1997, and DCAA Audit Reports
+No. 6351-97C10150001 dated 12 June 1998 and  No. 6351-97C10150001S-1
+dated 12 June 1998.  These rates have been determined in accordance
+with the provisions of OMB Circular A-21.
+
+TYPE     FROM     TO      RATE    BASE   LOCATION    APPLICABLE TO
+
+ENDOWED COLLEGE
+
+Actual   7/01/95  6/30/96  64.95%  (a)   On-Campus   All Programs (1)
+Actual   7/01/95  6/30/96  64.95%  (a)   On-Campus   All Programs (2)
+Actual   7/01/95  6/30/96  24.77%  (a)   Off-Campus  All Programs (1)
+Actual   7/01/95  6/30/96  24.77%  (a)   Off-Campus  All Programs (2)
+Actual   7/01/95  6/30/96  12.73%  (a)   Off-Campus  All NAIC 
+                                                     Programs (1)
+Actual   7/01/95  6/30/96  12.73%  (a)   Off-Campus  All NAIC 
+                                                     Programs (2)
+
+STATUTORY COLLEGE
+
+Actual   7/01/95  6/30/96  57.27%  (a)   On-Campus   All Programs (1)
+Actual   7/01/95  6/30/96  57.27%  (a)   On-Campus   All Programs (2)
+Actual   7/01/95  6/30/96  25.72%  (a)   Off-Campus  All Programs (1)
+Actual   7/01/95  6/30/96  25.72%  (a)   Off-Campus  All Programs (2)
+
+GENEVA
+
+Actual   7/01/95  6/30/96  47.78%  (a)   On-Campus   All Programs (1)
+Actual   7/01/95  6/30/96  47.78%  (a)   On-Campus   All Programs (2)
+Actual   7/01/95  6/30/96  20.00%  (a)   Off-Campus  All Programs (1)
+Actual   7/01/95  6/30/96  20.00%  (a)   Off-Campus  All Programs (2)
+
+ESA
+
+Actual   7/01/95  6/30/96  64.68%  (a)   On-Campus   All Programs (1)
+Actual   7/01/95  6/30/96  57.69%  (a)   On-Campus   All Programs (2)
+Actual   7/01/95  6/30/96  32.99%  (a)   Off-Campus  All Programs (1)
+Actual   7/01/95  6/30/96  26.00%  (a)   Off-Campus  All Programs (2)
+
+                        DISTRIBUTION BASE
+     
+     (a)  Modified Total Direct Cost Base consisting of salaries and
+wages, fringe benefits, materials and supplies, services, travel, and
+subgrants and subcontracts up to $25,000 each.
+
+                         APPLICABLE TO
+
+(1) Applies to all DoD contracts and subcontracts awarded on or after
+November 30, 1993 in accordance with and under the authority of DFARS
+231.303(1).  See Special Remarks below.
+
+(2) Applies to all DOD contracts and subcontracts awarded or issued
+before November 30, 1993, all Non-DOD instruments, and all DOD grants.
+See Special Remarks below.  The carryforward amounts resulting from
+establishment of  FY96 actual costs are as follows:
+
+Amounts in $000's
+                                   FY 96 Estimated      FY 96 Carry-
+                                   Carryforward         forward to be
+                                   Liquidated Through   Liquidated
+                    FY 96 Total    Another Year's       Through
+Pool                Carryforward   Fixed Rates          Future Rates
+
+Endowed (On)(1)     $   73 (O)     $00                  $   73 (O)  
+Endowed (On)(2)     $2,104 (O)     $00                  $2,104 (O)  
+
+Endowed (Off)(1)    $   00         $00                  $   00
+Endowed (Off)(2)    $    9 (O)     $00                  $    9 (O)
+     
+NAIC (Off)**        $   48 (O)     $00                  $   48 (O)    
+ 
+Statutory (On)(1)   $   19 (O)     $00                  $   19 (O)    
+Statutory (On)(2)   $3,224 (O)     $00                  $3,224 (O)  
+                                                            
+Statutory (Off)(1)  $    1 (O)     $00                  $    1 (O)    
+Statutory (Off)(2)  $   20 (O)     $00                  $   20 (O)    
+
+Geneva (On)**       $  905 (O)     $00                  $  905 (O)
+
+Geneva (Off)**      $   20 (O)     $00                  $   20 (O)
+                                
+ESA (On)(1)*              N/A      N/A                        N/A
+ESA (On)(2)         $1,608 (U)     $00                  $1,608 (U)  
+
+ESA (Off)(1)*             N/A      N/A                        N/A              
+ESA (Off)(2)        $   15 (U)     $00                  $   15 (U)     
+                    
+
+(U) Designates Underrecovery           (1) Designates Uncapped Rate
+(O) Designates Overrecovery            (2) Designates Capped Rate
+
+
+*  Note: Since Cornell University had no DOD contract or subcontract
+business at these locations in FY96, there are no FY96 carryforwards
+for the uncapped rates at these locations.
+
+**  Note: A consolidated carryforward amount covering the capped and
+uncapped rates is shown, since the FY96 fixed capped/uncapped rates
+were identical, and the FY96 actual capped/uncapped rates are also
+identical.
+
+The carryforward amounts shown above will be liquidated during a
+future fixed or predetermined rate negotiation.  In the event that
+Cornell University changes to the use of postdetermined rates, the
+above carryforward amounts will be liquidated as part of the next
+postdetermined rates negotiation.
+
+SPECIAL REMARKS
+
+A.  Application Of Indirect Cost Rates To DOD Contracts 
+
+In accordance with DFARS 231.303, no limitation (unless waived by
+the institution) may be placed on the reimbursement of otherwise
+allowable indirect costs incurred by an institution of higher
+education under a DOD contract awarded on or after November 30, 1993,
+unless the same limitation is applied uniformally to all other
+organizations performing similar work.  It has been determined by
+the Department of Defense that such limitation is not being uniformly
+applied.  Accordingly, the rates cited (1) of Section I, as explained
+under the title "APPLICABLE TO" (1), do not reflect the application of
+the 26% limitation on administrative indirect costs imposed by OMB
+Circular A-21, whereas (2) does so.
+
+B.  Utility Cost Special Study And Library Cost Alternate Allocation
+Base 
+
+The actual rates and carryforward adjustments contained in this
+agreement are based, in part, on the institution's cost allocation
+special study for utility costs and an alternate allocation base for
+library costs.  The Government has not accepted the methodology or
+results of this special study or alternate allocation base, but has
+agreed to partially utilize the results of the study and alternate
+allocation base as a basis for negotiating the university's FY96
+actual F&A cost rates and carryforward adjustments.  Use of such
+methodologies is on a non-precedent setting basis, and does not
+imply Government acceptance of the results of the utility cost
+allocation special study or the library cost alternate allocation
+base in this or any other F&A cost rate negotiation.
+
+C.  Job Title Code Reclassification     
+
+The following job title codes are ordinarily classified as
+Administrative positions in Cornell's Departmental Administration
+cost pools.  The Government believes that these job title codes
+should be removed from the Departmental Administration cost pools
+and reclassified as Faculty and Professional positions.  For the sole
+purpose of establishing the FY96 actual overhead rates and
+carryforward adjustments, Cornell has agreed to reclassify the
+following  job title codes as Faculty and Professional positions:
+
+               Title Code 4002 - Technician III   
+               Title Code 4003 - Technician IV
+               Title Code 4004 - Technician V     
+               Title Code 4066 - Research Aide IV
+
+The above job title code reclassifications are on a non-precedent
+setting basis, and do not imply Cornell's acceptance of such
+reclassifications for any other F&A cost rate negotiation.
+
+D.  Direct Charge Equivalent Adjustment
+
+Cornell job title codes classified as General Support positions in
+Cornell's Departmental Administration cost pools are subject to a
+Direct Charge Equivalent (DCE) adjustment when employees in General
+Support positions perform organized research direct charge effort.
+Cornell job title codes classified as Administrative positions in
+Cornell's Departmental Administration cost pools are not subject to
+such a DCE adjustment when employees in Administrative positions 
+perform organized research direct charge effort.
+
+The Administrative category of positions in Cornell's Departmental
+Administration cost pools includes certain job title codes covered
+by Cornell Pay Bands A, B, and C.  For the sole purpose of 
+establishing the FY96 actual overhead rates and carryforward
+adjustments, the parties hereto have agreed to apply a DCE
+adjustment to FY96 organized research effort performed by certain 
+Administrative category employees.  This is accomplished by
+assigning employees whose job title codes are covered by Pay Bands
+A, B, and C for certain Administrative job title codes to the
+General Support pool instead of the Administrative pool. This
+agreement is on a non-precedent setting basis and does not imply
+either party's acceptance of such cost treatment in any other F&A
+cost rate negotiation.
+
+Please indicate your acceptance of the FY 96 actual rates and
+carryforward adjustments by signature in the space provided below.
+The terms of this negotiation agreement are subject to all
+regulations and statutes applicable to any contract, grant, or
+other agreement including the provisions of OMB Circular A-21.
+The terms of this negotiation agreement will not change any
+monetary ceilings of any individual Federal contract, grant, or
+other agreement with Cornell University.
+
+FOR CORNELL UNIVERSITY             FOR THE GOVERNMENT
+
+
+/s/                                /s/ 
+
+                                   
+                                   Contracting Officer
+(Title)                            (Title)
+
+2/11/99                            2/17/99                                      
+(Date)                             (Date)

@@ -1,0 +1,238 @@
+
+CllgMA Massachusetts Institute of Technology 42103594 5/18/99 0100
+                                                                                                                                                             
+                     NEGOTIATION AGREEMENT 
+
+Institution:    MASSACHUSETTS INSTITUTE OF TECHNOLOGY  
+                CAMBRIDGE, MASSACHUSETTS   02139   
+
+The Facilities & Administrative (F&A) cost rates contained herein
+are for use on grants, contracts and/or other agreements issued or
+awarded to the Massachusetts Institute of Technology (MIT) by all
+Federal Agencies of the United States of America, in accordance
+with the provisions and cost principles mandated by Office of
+Management and Budget (OMB) Circular A-21.  These rates shall be
+used for forward pricing and billing purposes at MIT for MIT's
+Fiscal Year 2000 and 2001. This rate agreement supersedes all
+previous rate agreements/determinations for FY 2000 and FY 2001.  
+                                                                                   
+SECTION I: RATES - TYPE: FIXED WITH CARRYFORWARD ("FIXED") 
+                                                                                                                                             
+  FACILITIES AND ADMINISTRATIVE RATES (INDIRECT COST RATES)
+
+TYPE    FROM    TO        RATE     BASE  APPLICABLE  LOCATION
+                                         To
+
+Fixed   7/1/99  6/30/00   63.50%   (a)   Organized   On Campus
+                                         Research
+
+Fixed   7/1/99  6/30/00    8.50%   (a)   Organized   Off Campus
+                                         Research
+
+Fixed   7/1/00  6/30/01   63.50%   (a)   Organized   On Campus
+                                         Research
+
+Fixed   7/1/00  6/30/01    8.50%   (a)   Organized   Off Campus
+                                         Research
+                               
+                     DISTRIBUTION BASE
+          
+     (a)  Modified Total Direct Cost (MTDC), as defined in
+OMB Circular A-21, consisting of all salaries and wages,
+fringe benefits, materials and supplies, services, travel,
+and subgrants and subcontracts up to the first $25,000 each
+(regardless of the period covered by the subgrant or
+subcontract); and excluding equipment, capital expenditures,
+charges for tuition remission, rental costs, scholarships and
+fellowships as well as the portion of each subgrant and
+subcontract in excess of $25,000. 
+                                                                                                                                                
+SECTION II - GENERAL                                                    
+
+A.   LIMITATIONS:  Use of the rates set forth under Section I
+is subject to any statutory or administrative limitations and is
+applicable to a given grant or contract only to the extent that
+funds are available.  Acceptance of the rates agreed to herein
+is predicated upon all of the following conditions: (1) that no
+costs other than those incurred by the grantee/contractor were
+included in this indirect cost pool as finally accepted and that
+such costs are legal obligations of the grantee/contractor and
+allowable under governing cost principles, (2) that the same
+costs that have been treated as indirect costs are not claimed
+as direct costs, (3) that similar types of costs have been
+accorded consistent accounting treatment, and (4) that the
+information provided by the grantee/contractor which was used
+as a basis for acceptance of the rates agreed to herein, and
+expressly relied upon by the Government in negotiating and
+accepting the said rates is not subsequently found to be
+materially incomplete or inaccurate.          
+
+B.   ACCOUNTING CHANGES:  The fixed rates contained in
+Section I of this agreement are based on the accounting
+system in effect at the time the agreement was negotiated.
+ Changes to the method(s) of accounting for costs which
+affect the amount of reimbursement resulting from the use
+of these rates require the prior approval of the authorized
+representative of the cognizant negotiation agency.  Such
+changes include but are not limited to changes in the
+charging of a particular type of cost from indirect to
+direct.  Failure to obtain such approval may result in
+subsequent cost disallowances.
+
+C.   USE BY OTHER FEDERAL AGENCIES:  The rates set forth
+in Section I were negotiated in accordance with and under
+the authority contained in OMB Circular A-21.  Accordingly,
+such rates shall be applied to the extent provided in such
+Circular to grants and contracts to which OMB Circular A-21
+applies, subject to any limitations in part A of this
+section.  Copies of this document may be provided by either
+party to other federal agencies which have or intend to
+issue or award sponsored agreements using these rates or
+to otherwise provide such agencies with documentary notice
+of this agreement and its terms and conditions.
+
+D.   FIXED RATES:  The fixed rates in this agreement are
+based on estimates of the costs for FY 2000.  When actual
+costs for the period is determined, an adjustment will be
+made to the rates of a future year to recognize the
+difference between the FY 2000 estimated costs used to
+establish the fixed rates and the negotiated actual
+FY 2000 costs.  The fixed rates in this agreement are
+based on estimates of the costs for FY 2001.  When actual
+costs for the period is determined, an adjustment will
+be made to the rates of a future year to recognize the
+difference between the FY 2001 estimated costs used to
+establish the fixed rates and the negotiated actual
+FY 2001 costs.
+
+E.   LIQUIDATION OF CARRYFORWARD AMOUNTS: The fixed
+rates set forth in Section I include the liquidation
+of the following carryforward amounts:
+
+     1.  FY96 Carry-forward amounts established by
+Negotiation Agreement dated 19 June 1998 are 
+liquidated in their entirety as follows:
+
+FY96 Carry-forward Liquidation - Under/(Over) 
+Recovery $000
+                           Liquidated   Liquidated   Liquidated
+            FY97 Final      in FY97      In FY99      in FY00
+Location   Carry-forward   Fixed Rate   Fixed Rate   Fixed Rate
+on Campus  $    (2,137)    $    1,699   $  (3,260)   $    (576)
+Off Campus $     2,638     $    2,480   $     158    $      -
+
+     2.  FY97 Carry-forward amounts established by
+Negotiation Agreement dated 13 October 1998 are
+liquidated as follows:
+                           Liquidated   Liquidated   Liquidated  
+            FY97 Final     in FY99      In FY00      in FY01     Balance to be
+Location   Carry-forward   Fixed Rate   Fixed Rate   Fixed Rate  Liquidated
+On Campus  $    (6,644)    $    -       $  (1,429)  $  (4,890)         (325)
+Off Campus $    (4,768)    $  (2,949)   $  (1,652)  $      -           (157)
+
+     3.  FY98 Estimated Carry-forwards - The fixed rates
+set forth in Section I include the following estimated
+carry-forward amounts for FY98: 
+
+                            Liquidated   Liquidated     
+                             in FY00      In FY01     
+
+                 On Campus  $     -      $    1,100   
+                 Off Campus $   (900)    $   (2,700)
+
+F.   COST CATEGORIES:                                                                                                             
+      
+     1.  The following cost categories are normally treated
+         as direct costs by this  institution:
+
+          a.  Salaries and wages including overtime and sick
+              leave pay
+          b.  Employee fringe benefits
+          c.  Materials, supplies, and fabricated parts 
+              directly related to the research agreement
+          d.  Equipment or other facilities when approved
+              by the sponsoring agency and/or
+              provided for by the terms of the research agreement
+          e.  Consultants
+          f.   Communication, publication and mailing
+          g.  Travel expenses
+          h.  Shipping charges
+          i.   Tuition remission
+
+     2.  The following cost categories are normally treated as
+indirect costs by this institution:
+
+          a.  Departmental administration
+          b.  Laboratory directors
+          c.  Library
+          d.  Medical
+          e.  Contract administration
+          f.  Student services
+          g.  Plant operations - Normal plant and special plant
+          h.  Building use charge
+          i.  Equipment depreciation
+          j.  General administration
+          k.  Campus general administration
+          l.  Nuclear reactor
+          m.  Employee benefits residual
+          n.  Interest 
+
+F.   SPECIAL REMARKS: 
+
+     1.  Off Campus rates are used when the preponderance of
+effort is performed at Lincoln Laboratory, Haystack
+Observatory or other off-site locations.
+     
+     2.  The fixed rates contained in this agreement are based,
+in part, on the institution's alternate allocation base for
+library costs.  The Government has not accepted the methodology
+or results of this alternate allocation base, but has agreed to
+partially utilize the alternate allocation base as a basis for
+negotiating the university's FY00 and FY01 fixed F&A cost rates.
+Use of this methodology is on a non-precedent setting basis, and
+does not imply Government acceptance of the library cost
+alternate allocation base in this or any other indirect cost
+rate negotiation.
+
+     3.  The purpose of this agreement is to establish fixed F&A
+cost rates for the period 1 July 1999 through 30 June 2001.
+These rates are based on MIT's proposal dated 12 January 1999,
+and the establishment of these rates by the Government based on
+the accounting systems and allocation methodologies contained in
+this proposal does not represent an agreement that these systems
+and methodologies are accepted for fiscal year 2000, 2001, or for
+any subsequent year's rate negotiation. 
+
+     4.  Signature of this agreement by the authorized
+representatives of MIT and the Government acknowledges and
+affirms the Institute's request for waiver of the prohibition
+contained in DFARS 231.303 (1) and the Government's exercise of
+its discretion contained in DFARS 231.303 (2) to waive the
+prohibition in DFARS 231.303 (1).  The waiver request by MIT is
+made to simplify the Institute's overall management of DOD cost
+reimbursement under DOD contracts.
+
+Accepted: 
+
+FOR MASSACHUSETTS INSTITUTE             FOR THE U.S. GOVERNMENT
+OF TECHNOLOGY
+
+
+/S/                                     /S/                                                          
+JULIE T. NORRIS                         DEBORAH K. RAFI
+Director, Office Of Sponsored Programs  Contracting Officer
+
+
+May 18, 1999                             May 18, 1999
+Date                                     Date
+
+
+
+        For information concerning this document contact:
+                          Deborah K. Rafi
+                      Office of Naval Research
+                       Indirect Costs/ONR 242
+                        800 N. Quincy Street
+                        Arlington, VA  22217
+                           (703) 696-5641
+                    E-mail: rafid@onr.navy.mil
